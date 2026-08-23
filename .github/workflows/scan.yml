@@ -1,0 +1,76 @@
+name: Supertrend scan
+
+on:
+  schedule:
+    # Every 5 min, 03:45-10:00 UTC Mon-Fri = 09:15-15:30 IST.
+    # GitHub's scheduler is best-effort and often fires several minutes late.
+    - cron: "*/5 3-10 * * 1-5"
+  workflow_dispatch:        # lets you trigger a scan by hand from the phone
+
+permissions:
+  contents: write           # needed to commit live_state.json back
+
+concurrency:
+  group: supertrend-scan
+  cancel-in-progress: false # never kill a run mid-commit
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Skip if outside market hours (IST)
+        id: gate
+        run: |
+          # 10# forces base-10; a bare "0915" is an invalid octal literal to bash.
+          now=$((10#$(TZ=Asia/Kolkata date +%H%M)))
+          dow=$(TZ=Asia/Kolkata date +%u)
+          if [ "$dow" -ge 6 ] || [ "$now" -lt 915 ] || [ "$now" -gt 1535 ]; then
+            echo "run=false" >> "$GITHUB_OUTPUT"
+            echo "Outside market hours (IST $now, day $dow) - skipping."
+          else
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/setup-python@v5
+        if: steps.gate.outputs.run == 'true'
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install deps
+        if: steps.gate.outputs.run == 'true'
+        run: pip install -r requirements.txt
+
+      - name: Scan
+        if: steps.gate.outputs.run == 'true'
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          ST_ATR: "14"
+          ST_MULT: "2.0"
+          ST_WINDOW: "3"
+          UNIVERSE: nifty500
+        run: python live_alert.py --once
+
+      - name: Rebuild the web page
+        if: steps.gate.outputs.run == 'true'
+        run: python site.py
+
+      - name: Persist state
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          git config user.name  "supertrend-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -f paper_book.json alerts.log docs/ 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No state change."
+          else
+            git commit -m "state: $(TZ=Asia/Kolkata date '+%F %H:%M IST') [skip ci]"
+            for i in 1 2 3; do
+              git pull --rebase --autostash && git push && break
+              echo "push retry $i"; sleep 5
+            done
+          fi
