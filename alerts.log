@@ -26,3 +26,20 @@ Valid for the next 3 x 125-min candles.
 STOP LOSS 1812.90  (risk 2.95%)
 Exit when the 125-min Supertrend turns red. 1R = 1923.10, 2R = 1978.20
 NOTE: price has pulled back to 1862.00 - the trigger was hit earlier, between scans.
+[2026-08-24 14:00:42] SETUP  AWL | 125m Supertrend turned GREEN (daily green too).
+Buy above 194.65 | SL 189.82 (risk 2.48%) | LTP 194.32
+Valid for the next 3 x 125-min candles.
+[2026-08-24 14:00:43] >>> ENTRY AWL <<< | Broke 194.65. LTP 194.32
+STOP LOSS 189.82  (risk 2.48%)
+Exit when the 125-min Supertrend turns red. 1R = 199.48, 2R = 204.31
+NOTE: price has pulled back to 194.32 - the trigger was hit earlier, between scans.
+[2026-08-24 14:00:43] SETUP  AARTIIND | 125m Supertrend turned GREEN (daily green too).
+Buy above 544.75 | SL 538.50 (risk 1.15%) | LTP 543.65
+Valid for the next 3 x 125-min candles.
+[2026-08-24 14:00:44] >>> ENTRY AARTIIND <<< | Broke 544.75. LTP 543.65
+STOP LOSS 538.50  (risk 1.15%)
+Exit when the 125-min Supertrend turns red. 1R = 551.00, 2R = 557.25
+NOTE: price has pulled back to 543.65 - the trigger was hit earlier, between scans.
+[2026-08-24 14:00:46] >>> ENTRY ENGINERSIN <<< | Broke 250.97. LTP 251.60
+STOP LOSS 243.83  (risk 2.84%)
+Exit when the 125-min Supertrend turns red. 1R = 258.11, 2R = 265.25
