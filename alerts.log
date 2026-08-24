@@ -5,3 +5,5 @@ Valid for the next 3 x 125-min candles.
 STOP LOSS 86.28  (risk 0.54%)
 Exit when the 125-min Supertrend turns red. 1R = 87.22, 2R = 87.69
 NOTE: price has pulled back to 86.32 - the trigger was hit earlier, between scans.
+[2026-08-24 10:50:14] EXIT   IDFCFIRSTB (STOPPED OUT) | Stop-loss hit - book out near 86.28
+Entry 86.75 -> 86.28 = -0.54% (-1.00 R)
