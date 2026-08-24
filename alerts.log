@@ -43,3 +43,7 @@ NOTE: price has pulled back to 543.65 - the trigger was hit earlier, between sca
 [2026-08-24 14:00:46] >>> ENTRY ENGINERSIN <<< | Broke 250.97. LTP 251.60
 STOP LOSS 243.83  (risk 2.84%)
 Exit when the 125-min Supertrend turns red. 1R = 258.11, 2R = 265.25
+[2026-08-24 14:55:14] >>> ENTRY SIEMENS <<< | Broke 4110.00. LTP 4100.40
+STOP LOSS 3908.20  (risk 4.91%)
+Exit when the 125-min Supertrend turns red. 1R = 4311.80, 2R = 4513.60
+NOTE: price has pulled back to 4100.40 - the trigger was hit earlier, between scans.
