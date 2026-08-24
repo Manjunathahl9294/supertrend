@@ -1,3 +1,7 @@
 [2026-08-24 09:16:31] SETUP  IDFCFIRSTB | 125m Supertrend turned GREEN (daily green too).
 Buy above 86.75 | SL 86.28 (risk 0.54%) | LTP 86.75
 Valid for the next 3 x 125-min candles.
+[2026-08-24 10:01:00] >>> ENTRY IDFCFIRSTB <<< | Broke 86.75. LTP 86.32
+STOP LOSS 86.28  (risk 0.54%)
+Exit when the 125-min Supertrend turns red. 1R = 87.22, 2R = 87.69
+NOTE: price has pulled back to 86.32 - the trigger was hit earlier, between scans.
