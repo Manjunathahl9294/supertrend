@@ -7,3 +7,22 @@ Exit when the 125-min Supertrend turns red. 1R = 87.22, 2R = 87.69
 NOTE: price has pulled back to 86.32 - the trigger was hit earlier, between scans.
 [2026-08-24 10:50:14] EXIT   IDFCFIRSTB (STOPPED OUT) | Stop-loss hit - book out near 86.28
 Entry 86.75 -> 86.28 = -0.54% (-1.00 R)
+[2026-08-24 11:28:20] SETUP  ENGINERSIN | 125m Supertrend turned GREEN (daily green too).
+Buy above 250.97 | SL 243.83 (risk 2.84%) | LTP 247.67
+Valid for the next 3 x 125-min candles.
+[2026-08-24 11:28:22] SETUP  HINDALCO | 125m Supertrend turned GREEN (daily green too).
+Buy above 1058.45 | SL 1043.40 (risk 1.42%) | LTP 1055.20
+Valid for the next 3 x 125-min candles.
+[2026-08-24 11:28:23] SETUP  JSWINFRA | 125m Supertrend turned GREEN (daily green too).
+Buy above 342.80 | SL 335.85 (risk 2.03%) | LTP 340.00
+Valid for the next 3 x 125-min candles.
+[2026-08-24 11:28:25] SETUP  SIEMENS | 125m Supertrend turned GREEN (daily green too).
+Buy above 4110.00 | SL 3908.20 (risk 4.91%) | LTP 4072.60
+Valid for the next 3 x 125-min candles.
+[2026-08-24 11:28:26] SETUP  ECLERX | 125m Supertrend turned GREEN (daily green too).
+Buy above 1868.00 | SL 1812.90 (risk 2.95%) | LTP 1862.00
+Valid for the next 3 x 125-min candles.
+[2026-08-24 11:28:27] >>> ENTRY ECLERX <<< | Broke 1868.00. LTP 1862.00
+STOP LOSS 1812.90  (risk 2.95%)
+Exit when the 125-min Supertrend turns red. 1R = 1923.10, 2R = 1978.20
+NOTE: price has pulled back to 1862.00 - the trigger was hit earlier, between scans.
