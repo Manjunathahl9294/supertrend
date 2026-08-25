@@ -47,3 +47,20 @@ Exit when the 125-min Supertrend turns red. 1R = 258.11, 2R = 265.25
 STOP LOSS 3908.20  (risk 4.91%)
 Exit when the 125-min Supertrend turns red. 1R = 4311.80, 2R = 4513.60
 NOTE: price has pulled back to 4100.40 - the trigger was hit earlier, between scans.
+[2026-08-25 09:53:07] SETUP  COCHINSHIP | 125m Supertrend turned GREEN (daily green too).
+Buy above 1515.90 | SL 1496.20 (risk 1.30%) | LTP 1511.70
+Valid for the next 3 x 125-min candles.
+[2026-08-25 09:53:09] >>> ENTRY COCHINSHIP <<< | Broke 1515.90. LTP 1511.70
+STOP LOSS 1496.20  (risk 1.30%)
+Exit when the 125-min Supertrend turns red. 1R = 1535.60, 2R = 1555.30
+NOTE: price has pulled back to 1511.70 - the trigger was hit earlier, between scans.
+[2026-08-25 09:53:10] >>> ENTRY HINDALCO <<< | Broke 1058.45. LTP 1044.15
+STOP LOSS 1043.40  (risk 1.42%)
+Exit when the 125-min Supertrend turns red. 1R = 1073.50, 2R = 1088.55
+NOTE: price has pulled back to 1044.15 - the trigger was hit earlier, between scans.
+[2026-08-25 09:53:11] >>> ENTRY JSWINFRA <<< | Broke 342.80. LTP 342.20
+STOP LOSS 335.85  (risk 2.03%)
+Exit when the 125-min Supertrend turns red. 1R = 349.75, 2R = 356.70
+NOTE: price has pulled back to 342.20 - the trigger was hit earlier, between scans.
+[2026-08-25 09:53:15] EXIT   ECLERX (STOPPED OUT) | Stop-loss hit - book out near 1812.90
+Entry 1868.00 -> 1812.90 = -2.95% (-1.00 R)
