@@ -78,3 +78,16 @@ Exit when the 125-min Supertrend turns red. 1R = 1886.70, 2R = 1931.40
 [2026-08-25 12:28:29] >>> ENTRY LGEINDIA <<< | Broke 1686.50. LTP 1690.00
 STOP LOSS 1654.00  (risk 1.93%)
 Exit when the 125-min Supertrend turns red. 1R = 1719.00, 2R = 1751.50
+[2026-08-25 13:53:19] SETUP  CUB | 125m Supertrend turned GREEN (daily green too).
+Buy above 220.09 | SL 217.25 (risk 1.29%) | LTP 220.32
+Valid for the next 3 x 125-min candles.
+[2026-08-25 13:53:19] >>> ENTRY CUB <<< | Broke 220.09. LTP 220.32
+STOP LOSS 217.25  (risk 1.29%)
+Exit when the 125-min Supertrend turns red. 1R = 222.93, 2R = 225.77
+[2026-08-25 13:53:23] SETUP  PINELABS | 125m Supertrend turned GREEN (daily green too).
+Buy above 165.45 | SL 160.51 (risk 2.99%) | LTP 164.70
+Valid for the next 3 x 125-min candles.
+[2026-08-25 13:53:23] >>> ENTRY PINELABS <<< | Broke 165.45. LTP 164.70
+STOP LOSS 160.51  (risk 2.99%)
+Exit when the 125-min Supertrend turns red. 1R = 170.39, 2R = 175.33
+NOTE: price has pulled back to 164.70 - the trigger was hit earlier, between scans.
