@@ -66,3 +66,12 @@ NOTE: price has pulled back to 342.20 - the trigger was hit earlier, between sca
 Entry 1868.00 -> 1812.90 = -2.95% (-1.00 R)
 [2026-08-25 10:30:46] EXIT   AARTIIND (STOPPED OUT) | Stop-loss hit - book out near 538.50
 Entry 544.75 -> 538.50 = -1.15% (-1.00 R)
+[2026-08-25 11:32:12] SETUP  LGEINDIA | 125m Supertrend turned GREEN (daily green too).
+Buy above 1686.50 | SL 1654.00 (risk 1.93%) | LTP 1682.00
+Valid for the next 3 x 125-min candles.
+[2026-08-25 11:32:13] SETUP  LAURUSLABS | 125m Supertrend turned GREEN (daily green too).
+Buy above 1842.00 | SL 1797.30 (risk 2.43%) | LTP 1848.00
+Valid for the next 3 x 125-min candles.
+[2026-08-25 11:32:13] >>> ENTRY LAURUSLABS <<< | Broke 1842.00. LTP 1848.00
+STOP LOSS 1797.30  (risk 2.43%)
+Exit when the 125-min Supertrend turns red. 1R = 1886.70, 2R = 1931.40
