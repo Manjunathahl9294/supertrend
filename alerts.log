@@ -64,3 +64,5 @@ Exit when the 125-min Supertrend turns red. 1R = 349.75, 2R = 356.70
 NOTE: price has pulled back to 342.20 - the trigger was hit earlier, between scans.
 [2026-08-25 09:53:15] EXIT   ECLERX (STOPPED OUT) | Stop-loss hit - book out near 1812.90
 Entry 1868.00 -> 1812.90 = -2.95% (-1.00 R)
+[2026-08-25 10:30:46] EXIT   AARTIIND (STOPPED OUT) | Stop-loss hit - book out near 538.50
+Entry 544.75 -> 538.50 = -1.15% (-1.00 R)
