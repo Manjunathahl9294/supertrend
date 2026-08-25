@@ -75,3 +75,6 @@ Valid for the next 3 x 125-min candles.
 [2026-08-25 11:32:13] >>> ENTRY LAURUSLABS <<< | Broke 1842.00. LTP 1848.00
 STOP LOSS 1797.30  (risk 2.43%)
 Exit when the 125-min Supertrend turns red. 1R = 1886.70, 2R = 1931.40
+[2026-08-25 12:28:29] >>> ENTRY LGEINDIA <<< | Broke 1686.50. LTP 1690.00
+STOP LOSS 1654.00  (risk 1.93%)
+Exit when the 125-min Supertrend turns red. 1R = 1719.00, 2R = 1751.50
