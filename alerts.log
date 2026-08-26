@@ -204,3 +204,10 @@ Buy above 307.90 | SL 290.00 (risk 5.81%) | LTP 304.65
 Valid for the next 3 x 125-min candles.
 [2026-08-26 13:25:24] EXIT   TECHM (STOPPED OUT) | Stop-loss hit - book out near 1566.40
 Entry 1599.90 -> 1566.40 = -2.09% (-1.00 R)
+[2026-08-26 13:59:27] >>> ENTRY DATAPATTNS <<< | Broke 4799.00. LTP 4815.90
+STOP LOSS 4722.40  (risk 1.60%)
+Exit when the 125-min Supertrend turns red. 1R = 4875.60, 2R = 4952.20
+[2026-08-26 13:59:28] >>> ENTRY GRSE <<< | Broke 2669.90. LTP 2665.90
+STOP LOSS 2619.00  (risk 1.91%)
+Exit when the 125-min Supertrend turns red. 1R = 2720.80, 2R = 2771.70
+NOTE: price has pulled back to 2665.90 - the trigger was hit earlier, between scans.
