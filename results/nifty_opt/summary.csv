@@ -1,0 +1,9 @@
+structure,trades,win_rate_%,total_pnl_rs,avg_pnl_rs,best_rs,worst_rs,profit_factor,max_dd_rs
+naked_put_sell,14,57.1,27409,1957,22080,-7674,2.27,-10690
+bull_call_spread,14,35.7,7460,532,11866,-3964,1.35,-10928
+bull_put_spread,14,57.1,6224,444,9737,-5806,1.35,-7865
+naked_call_buy,14,28.6,1643,117,28174,-8407,1.04,-15785
+bear_call_spread,9,11.1,-7016,-779,3592,-5075,0.34,-8546
+bear_put_spread,9,0.0,-12552,-1394,-356,-3026,0.0,-11796
+naked_call_sell,9,22.2,-15766,-1751,5376,-13766,0.31,-17097
+naked_put_buy,9,0.0,-25315,-2812,-581,-5924,0.0,-23397

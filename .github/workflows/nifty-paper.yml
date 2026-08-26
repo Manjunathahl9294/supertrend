@@ -1,0 +1,62 @@
+name: Nifty option paper trade
+
+on:
+  schedule:
+    # Every 15 min, 03:45-10:15 UTC Mon-Fri = 09:15-15:45 IST.
+    # GitHub's scheduler is best-effort; the trader is stateless so a late or
+    # missed tick simply gets absorbed by the next full recompute.
+    - cron: "*/15 3-10 * * 1-5"
+  workflow_dispatch:          # run by hand from the phone
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nifty-paper
+  cancel-in-progress: false
+
+jobs:
+  paper:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Market-hours gate (IST)
+        id: gate
+        run: |
+          now=$((10#$(TZ=Asia/Kolkata date +%H%M)))
+          dow=$(TZ=Asia/Kolkata date +%u)
+          if [ "$dow" -ge 6 ] || [ "$now" -lt 915 ] || [ "$now" -gt 1550 ]; then
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/setup-python@v5
+        if: steps.gate.outputs.run == 'true'
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        if: steps.gate.outputs.run == 'true'
+        run: pip install -r requirements.txt
+
+      - name: Update paper book
+        if: steps.gate.outputs.run == 'true'
+        env:
+          PAPER_START: ${{ vars.PAPER_START }}
+        run: |
+          python paper_nifty_opt.py
+          python site_nifty.py
+
+      - name: Commit
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add paper_nifty_book.json docs/nifty.html
+          git diff --cached --quiet || git commit -m "paper: nifty option book $(TZ=Asia/Kolkata date +'%F %H:%M')"
+          # another tick may have landed first; rebase rather than fail
+          git pull --rebase --autostash && git push

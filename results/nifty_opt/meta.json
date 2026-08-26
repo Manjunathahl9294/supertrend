@@ -1,0 +1,20 @@
+{
+  "bars": 1475,
+  "from": "2026-06-04 09:15:00+05:30",
+  "to": "2026-08-26 15:15:00+05:30",
+  "signals": 23,
+  "lot": 75,
+  "params": {
+    "period": 10,
+    "mult": 3.0,
+    "entry_window": 3
+  },
+  "index_stats": {
+    "total_points": 41.3,
+    "win_rate_%": 30.4,
+    "long": 14,
+    "short": 9,
+    "sl_exits": 11,
+    "flip_exits": 12
+  }
+}
