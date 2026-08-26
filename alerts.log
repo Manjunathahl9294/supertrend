@@ -190,3 +190,17 @@ Exit when the 125-min Supertrend turns red. 1R = 180.51, 2R = 183.06
 [2026-08-26 12:35:39] >>> ENTRY NAVINFLUOR <<< | Broke 8344.50. LTP 8404.00
 STOP LOSS 8230.00  (risk 1.37%)
 Exit when the 125-min Supertrend turns red. 1R = 8459.00, 2R = 8573.50
+[2026-08-26 13:25:19] SETUP  DATAPATTNS | 125m Supertrend turned GREEN (daily green too).
+Buy above 4799.00 | SL 4722.40 (risk 1.60%) | LTP 4764.90
+Valid for the next 3 x 125-min candles.
+[2026-08-26 13:25:20] SETUP  GRSE | 125m Supertrend turned GREEN (daily green too).
+Buy above 2669.90 | SL 2619.00 (risk 1.91%) | LTP 2659.90
+Valid for the next 3 x 125-min candles.
+[2026-08-26 13:25:21] >>> ENTRY HINDZINC <<< | Broke 623.75. LTP 624.80
+STOP LOSS 600.25  (risk 3.77%)
+Exit when the 125-min Supertrend turns red. 1R = 647.25, 2R = 670.75
+[2026-08-26 13:25:22] SETUP  JINDALSAW | 125m Supertrend turned GREEN (daily green too).
+Buy above 307.90 | SL 290.00 (risk 5.81%) | LTP 304.65
+Valid for the next 3 x 125-min candles.
+[2026-08-26 13:25:24] EXIT   TECHM (STOPPED OUT) | Stop-loss hit - book out near 1566.40
+Entry 1599.90 -> 1566.40 = -2.09% (-1.00 R)
