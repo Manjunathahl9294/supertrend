@@ -91,3 +91,29 @@ Valid for the next 3 x 125-min candles.
 STOP LOSS 160.51  (risk 2.99%)
 Exit when the 125-min Supertrend turns red. 1R = 170.39, 2R = 175.33
 NOTE: price has pulled back to 164.70 - the trigger was hit earlier, between scans.
+[2026-08-26 09:16:46] SETUP  ABB | 125m Supertrend turned GREEN (daily green too).
+Buy above 7627.00 | SL 7521.00 (risk 1.39%) | LTP 7655.00
+Valid for the next 3 x 125-min candles.
+[2026-08-26 09:16:47] >>> ENTRY ABB <<< | Broke 7627.00. LTP 7655.00
+STOP LOSS 7521.00  (risk 1.39%)
+Exit when the 125-min Supertrend turns red. 1R = 7733.00, 2R = 7839.00
+[2026-08-26 09:16:49] SETUP  CHOLAFIN | 125m Supertrend turned GREEN (daily green too).
+Buy above 1873.00 | SL 1832.80 (risk 2.15%) | LTP 1888.90
+Valid for the next 3 x 125-min candles.
+[2026-08-26 09:16:50] >>> ENTRY CHOLAFIN <<< | Broke 1873.00. LTP 1888.90
+STOP LOSS 1832.80  (risk 2.15%)
+Exit when the 125-min Supertrend turns red. 1R = 1913.20, 2R = 1953.40
+[2026-08-26 09:16:52] EXIT   HINDALCO (STOPPED OUT) | Stop-loss hit - book out near 1043.40
+Entry 1058.45 -> 1043.40 = -1.42% (-1.00 R)
+[2026-08-26 09:16:56] SETUP  TECHM | 125m Supertrend turned GREEN (daily green too).
+Buy above 1599.90 | SL 1566.40 (risk 2.09%) | LTP 1605.40
+Valid for the next 3 x 125-min candles.
+[2026-08-26 09:16:56] >>> ENTRY TECHM <<< | Broke 1599.90. LTP 1605.40
+STOP LOSS 1566.40  (risk 2.09%)
+Exit when the 125-min Supertrend turns red. 1R = 1633.40, 2R = 1666.90
+[2026-08-26 09:16:57] SETUP  UNIONBANK | 125m Supertrend turned GREEN (daily green too).
+Buy above 187.30 | SL 185.23 (risk 1.11%) | LTP 191.32
+Valid for the next 3 x 125-min candles.
+[2026-08-26 09:16:58] >>> ENTRY UNIONBANK <<< | Broke 187.30. LTP 191.32
+STOP LOSS 185.23  (risk 1.11%)
+Exit when the 125-min Supertrend turns red. 1R = 189.37, 2R = 191.44
