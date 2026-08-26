@@ -28,9 +28,9 @@ def load():
     return i[cols].dropna(), d[cols].dropna()
 
 
-def run(period=10, mult=3.0, entry_window=3):
+def run(period=10, mult=3.0, entry_window=3, htf_minutes=None):
     bars, daily = load()
-    sigs = find_signals(bars, period, mult, entry_window)
+    sigs = find_signals(bars, period, mult, entry_window, htf_minutes)
     if not sigs:
         return pd.DataFrame(), pd.DataFrame(), {}
 
@@ -39,7 +39,7 @@ def run(period=10, mult=3.0, entry_window=3):
         opts = evaluate(t, daily, bars["Close"])
         for name, o in opts.items():
             rows.append({**{k: t[k] for k in
-                            ("side", "signal_time", "entry_time", "exit_time",
+                            ("side", "htf_dir", "signal_time", "entry_time", "exit_time",
                              "spot_entry", "spot_stop", "spot_exit", "reason",
                              "points", "risk_pts", "r")},
                          "structure": name, **o})
@@ -48,7 +48,8 @@ def run(period=10, mult=3.0, entry_window=3):
     idx = pd.DataFrame(sigs)
     meta = {"bars": len(bars), "from": str(bars.index[0]), "to": str(bars.index[-1]),
             "signals": len(sigs), "lot": LOT,
-            "params": {"period": period, "mult": mult, "entry_window": entry_window}}
+            "params": {"period": period, "mult": mult, "entry_window": entry_window,
+                       "htf_minutes": htf_minutes}}
     return trades, idx, meta
 
 

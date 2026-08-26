@@ -78,3 +78,37 @@ every run, so a missed cron tick is harmless.
 
 yfinance serves at most **60 days** of 15-minute history. The backtest window is
 therefore always the trailing ~59 trading days and slides forward over time.
+
+## Dual-timeframe variant (75-min + 15-min)
+
+`find_signals(..., htf_minutes=75)` only takes a 15-min flip when the 75-min
+Supertrend already points the same way. 75 minutes divides the 375-minute NSE
+session exactly 5 ways, so the bars nest cleanly inside the 15-min series.
+
+**No lookahead:** the 75-min bar containing a given 15-min candle is still
+forming at that moment, so its direction is not knowable. `htf_direction()`
+stamps each HTF direction at the bar's *close* and forward-fills from there —
+a signal only ever sees completed higher-timeframe bars.
+
+### Result: the filter made things worse, in every configuration tested
+
+`python compare_htf.py` → `results/nifty_opt/htf_compare.csv`
+
+| | signals | index pts | naked_call_buy |
+|---|---|---|---|
+| baseline 15-min only | 23 | **+41.3** | +1,643 |
+| 75-min filtered | 10 | **−507.6** | −35,781 |
+
+All 15 filtered configurations (HTF 30/45/60/75/125 × mult 2.5/3.0/3.5) were
+negative on index points. Best filtered result was −21.2 pts against a baseline
+best of +342.5.
+
+**Why.** The filter admits *mature* trends and rejects *fresh* ones — median age
+of the 75-min trend at signal time was 85 bars for kept trades versus 39 for
+dropped. The four largest baseline winners (+732, +247, +169, +50 pts) were all
+dropped, because each was a 15-min flip against a stale 75-min trend that was
+about to turn. On this sample, catching the higher-timeframe turn early was the
+whole edge, and the filter is specifically designed to remove that.
+
+It did help the short side (dropped shorts lost 507 pts; kept shorts lost 27) —
+but only 2 shorts survived the filter, which decides nothing.

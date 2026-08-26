@@ -11,7 +11,7 @@ IST = "Asia/Kolkata"
 
 
 def find_signals(bars: pd.DataFrame, period: int = 10, mult: float = 3.0,
-                 entry_window: int = 3) -> list[dict]:
+                 entry_window: int = 3, htf_minutes: int | None = None) -> list[dict]:
     """Both-sided Supertrend flip breakout on the index.
 
     LONG  : ST flips red->green. Trigger = flip candle HIGH, taken within the
@@ -19,6 +19,10 @@ def find_signals(bars: pd.DataFrame, period: int = 10, mult: float = 3.0,
             Exit  = ST flips back to red (at that candle's close).
     SHORT : mirror image (flip green->red, trigger = LOW, stop = HIGH,
             exit on flip back to green).
+
+    If `htf_minutes` is set (e.g. 75), a flip is only taken when the higher
+    timeframe's Supertrend already points the same way, using the last
+    COMPLETED higher-timeframe bar so no future information leaks in.
 
     Returns index-level trades; the option overlay is applied separately.
     """
@@ -33,6 +37,9 @@ def find_signals(bars: pd.DataFrame, period: int = 10, mult: float = 3.0,
     ts = b.index
     n = len(b)
 
+    htf = (htf_direction(bars, period, mult, htf_minutes).to_numpy(float)
+           if htf_minutes else None)
+
     out: list[dict] = []
     i = 1
     while i < n:
@@ -42,6 +49,9 @@ def find_signals(bars: pd.DataFrame, period: int = 10, mult: float = 3.0,
             continue
 
         side = "LONG" if d[i] == 1 else "SHORT"
+        if htf is not None and htf[i] != d[i]:   # higher timeframe disagrees
+            i += 1
+            continue
         if side == "LONG":
             trigger, stop = h[i], l[i]
         else:
@@ -89,6 +99,7 @@ def find_signals(bars: pd.DataFrame, period: int = 10, mult: float = 3.0,
         pts = (exit_px - entry) if side == "LONG" else (entry - exit_px)
         out.append({
             "side": side,
+            "htf_dir": int(htf[i]) if htf is not None else 0,
             "signal_time": ts[i], "entry_time": ts[entry_idx], "exit_time": ts[exit_idx],
             "spot_entry": round(entry, 2), "spot_stop": round(stop, 2),
             "spot_exit": round(exit_px, 2), "reason": reason,
@@ -99,3 +110,48 @@ def find_signals(bars: pd.DataFrame, period: int = 10, mult: float = 3.0,
         i = exit_idx + 1               # one position at a time
 
     return out
+
+
+# ------------------------------------------------------------------ HTF filter
+HTF_MINUTES = 75          # 375-min NSE session = exactly 5 bars/day
+
+
+def to_htf(bars15: pd.DataFrame, minutes: int = HTF_MINUTES) -> pd.DataFrame:
+    """Aggregate 15-min bars into higher-timeframe bars anchored at 09:15.
+
+    Time-based bucketing (not count-based) so a missing 15-min bar cannot shift
+    the boundaries for the rest of the session.
+    """
+    if bars15.empty:
+        return bars15
+    idx = bars15.index
+    mins = np.asarray(idx.hour) * 60 + np.asarray(idx.minute) - (9 * 60 + 15)
+    bucket = np.clip(mins, 0, None) // minutes
+    start = (9 * 60 + 15) + bucket * minutes
+    key = pd.to_datetime(idx.date.astype(str)) + pd.to_timedelta(start, unit="m")
+    key = key.tz_localize(IST)
+
+    out = bars15.groupby(key).agg(
+        Open=("Open", "first"), High=("High", "max"), Low=("Low", "min"),
+        Close=("Close", "last"), Volume=("Volume", "sum"),
+    )
+    out.index.name = "Datetime"
+    return out.dropna()
+
+
+def htf_direction(bars15: pd.DataFrame, period: int = 10, mult: float = 3.0,
+                  minutes: int = HTF_MINUTES) -> pd.Series:
+    """Higher-timeframe Supertrend direction, as known to a 15-min bar.
+
+    The 75-min bar containing a given 15-min candle is still forming at that
+    moment, so its direction is not yet knowable. We therefore forward-fill the
+    LAST COMPLETED 75-min bar's direction onto each 15-min timestamp: the value
+    is stamped at the HTF bar's close and only becomes visible after it.
+    """
+    htf = to_htf(bars15, minutes)
+    d = supertrend(htf, period, mult)["dir"]
+
+    # a bar opening at T closes at T+minutes; its direction is usable from then on
+    stamped = d.copy()
+    stamped.index = d.index + pd.Timedelta(minutes=minutes)
+    return stamped.reindex(bars15.index, method="ffill")
