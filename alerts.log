@@ -184,3 +184,9 @@ Valid for the next 3 x 125-min candles.
 [2026-08-26 11:37:30] >>> ENTRY TATACAP <<< | Broke 369.75. LTP 370.30
 STOP LOSS 364.15  (risk 1.51%)
 Exit when the 125-min Supertrend turns red. 1R = 375.35, 2R = 380.95
+[2026-08-26 12:35:35] >>> ENTRY ASHOKLEY <<< | Broke 177.96. LTP 178.75
+STOP LOSS 175.41  (risk 1.43%)
+Exit when the 125-min Supertrend turns red. 1R = 180.51, 2R = 183.06
+[2026-08-26 12:35:39] >>> ENTRY NAVINFLUOR <<< | Broke 8344.50. LTP 8404.00
+STOP LOSS 8230.00  (risk 1.37%)
+Exit when the 125-min Supertrend turns red. 1R = 8459.00, 2R = 8573.50
