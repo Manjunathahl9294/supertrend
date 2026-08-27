@@ -211,3 +211,46 @@ Exit when the 125-min Supertrend turns red. 1R = 4875.60, 2R = 4952.20
 STOP LOSS 2619.00  (risk 1.91%)
 Exit when the 125-min Supertrend turns red. 1R = 2720.80, 2R = 2771.70
 NOTE: price has pulled back to 2665.90 - the trigger was hit earlier, between scans.
+[2026-08-27 12:25:44] EXIT   ABB (STOPPED OUT) | Stop-loss hit - book out near 7521.00
+Entry 7627.00 -> 7521.00 = -1.39% (-1.00 R)
+[2026-08-27 12:25:45] SETUP  APARINDS | 125m Supertrend turned GREEN (daily green too).
+Buy above 17620.00 | SL 17200.00 (risk 2.38%) | LTP 17709.00
+Valid for the next 3 x 125-min candles.
+[2026-08-27 12:25:45] >>> ENTRY APARINDS <<< | Broke 17620.00. LTP 17709.00
+STOP LOSS 17200.00  (risk 2.38%)
+Exit when the 125-min Supertrend turns red. 1R = 18040.00, 2R = 18460.00
+[2026-08-27 12:25:46] >>> ENTRY ATHERENERG <<< | Broke 1489.50. LTP 1495.30
+STOP LOSS 1444.00  (risk 3.05%)
+Exit when the 125-min Supertrend turns red. 1R = 1535.00, 2R = 1580.50
+[2026-08-27 12:25:46] >>> ENTRY BAJAJHLDNG <<< | Broke 11447.00. LTP 11465.00
+STOP LOSS 11292.00  (risk 1.35%)
+Exit when the 125-min Supertrend turns red. 1R = 11602.00, 2R = 11757.00
+[2026-08-27 12:25:47] SETUP  BHEL | 125m Supertrend turned GREEN (daily green too).
+Buy above 438.10 | SL 418.60 (risk 4.45%) | LTP 432.80
+Valid for the next 3 x 125-min candles.
+[2026-08-27 12:25:48] SETUP  CRISIL | 125m Supertrend turned GREEN (daily green too).
+Buy above 4661.40 | SL 4502.90 (risk 3.40%) | LTP 4617.50
+Valid for the next 3 x 125-min candles.
+[2026-08-27 12:25:48] EXIT   DATAPATTNS (STOPPED OUT) | Stop-loss hit - book out near 4722.40
+Entry 4799.00 -> 4722.40 = -1.60% (-1.00 R)
+[2026-08-27 12:25:49] >>> ENTRY LALPATHLAB <<< | Broke 1945.00. LTP 1931.00
+STOP LOSS 1888.60  (risk 2.90%)
+Exit when the 125-min Supertrend turns red. 1R = 2001.40, 2R = 2057.80
+NOTE: price has pulled back to 1931.00 - the trigger was hit earlier, between scans.
+[2026-08-27 12:25:50] EXIT   ENGINERSIN (TARGET) | 125m Supertrend turned RED - book out near 245.78
+Entry 250.97 -> 245.78 = -2.07% (-0.73 R)
+[2026-08-27 12:25:50] >>> ENTRY GLAXO <<< | Broke 3049.90. LTP 3051.10
+STOP LOSS 2994.40  (risk 1.82%)
+Exit when the 125-min Supertrend turns red. 1R = 3105.40, 2R = 3160.90
+[2026-08-27 12:25:51] >>> ENTRY MEDANTA <<< | Broke 1474.80. LTP 1495.00
+STOP LOSS 1410.70  (risk 4.35%)
+Exit when the 125-min Supertrend turns red. 1R = 1538.90, 2R = 1603.00
+[2026-08-27 12:25:52] >>> ENTRY HYUNDAI <<< | Broke 2279.00. LTP 2260.40
+STOP LOSS 2237.40  (risk 1.83%)
+Exit when the 125-min Supertrend turns red. 1R = 2320.60, 2R = 2362.20
+NOTE: price has pulled back to 2260.40 - the trigger was hit earlier, between scans.
+[2026-08-27 12:25:53] EXIT   JSWINFRA (STOPPED OUT) | Stop-loss hit - book out near 335.85
+Entry 342.80 -> 335.85 = -2.03% (-1.00 R)
+[2026-08-27 12:25:53] >>> ENTRY JINDALSAW <<< | Broke 307.90. LTP 309.70
+STOP LOSS 290.00  (risk 5.81%)
+Exit when the 125-min Supertrend turns red. 1R = 325.80, 2R = 343.70
