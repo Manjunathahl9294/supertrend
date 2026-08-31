@@ -254,3 +254,51 @@ Entry 342.80 -> 335.85 = -2.03% (-1.00 R)
 [2026-08-27 12:25:53] >>> ENTRY JINDALSAW <<< | Broke 307.90. LTP 309.70
 STOP LOSS 290.00  (risk 5.81%)
 Exit when the 125-min Supertrend turns red. 1R = 325.80, 2R = 343.70
+[2026-08-31 14:36:53] EXIT   AWL (TARGET) | 125m Supertrend turned RED - book out near 195.50
+Entry 194.65 -> 195.50 = +0.44% (+0.18 R)
+[2026-08-31 14:36:54] EXIT   ASHOKLEY (STOPPED OUT) | Stop-loss hit - book out near 175.41
+Entry 177.96 -> 175.41 = -1.43% (-1.00 R)
+[2026-08-31 14:36:55] EXIT   BAJAJHLDNG (STOPPED OUT) | Stop-loss hit - book out near 11292.00
+Entry 11447.00 -> 11292.00 = -1.35% (-1.00 R)
+[2026-08-31 14:36:55] CANCEL BANKINDIA | 125m Supertrend flipped red before entry.
+[2026-08-31 14:36:56] >>> ENTRY CRISIL <<< | Broke 4661.40. LTP 4796.50
+STOP LOSS 4502.90  (risk 3.40%)
+Exit when the 125-min Supertrend turns red. 1R = 4819.90, 2R = 4978.40
+[2026-08-31 14:36:57] CANCEL CANBK | 125m Supertrend flipped red before entry.
+[2026-08-31 14:36:57] EXIT   CHOLAFIN (STOPPED OUT) | Stop-loss hit - book out near 1832.80
+Entry 1873.00 -> 1832.80 = -2.15% (-1.00 R)
+[2026-08-31 14:36:58] EXIT   COCHINSHIP (STOPPED OUT) | Stop-loss hit - book out near 1496.20
+Entry 1515.90 -> 1496.20 = -1.30% (-1.00 R)
+[2026-08-31 14:36:59] EXIT   COHANCE (STOPPED OUT) | Stop-loss hit - book out near 450.10
+Entry 466.00 -> 450.10 = -3.41% (-1.00 R)
+[2026-08-31 14:36:59] EXIT   LALPATHLAB (STOPPED OUT) | Stop-loss hit - book out near 1888.60
+Entry 1945.00 -> 1888.60 = -2.90% (-1.00 R)
+[2026-08-31 14:37:00] EXIT   GRSE (STOPPED OUT) | Stop-loss hit - book out near 2619.00
+Entry 2669.90 -> 2619.00 = -1.91% (-1.00 R)
+[2026-08-31 14:37:01] EXIT   MEDANTA (TARGET) | 125m Supertrend turned RED - book out near 1481.50
+Entry 1474.80 -> 1481.50 = +0.45% (+0.10 R)
+[2026-08-31 14:37:02] SETUP  GRASIM | 125m Supertrend turned GREEN (daily green too).
+Buy above 3322.10 | SL 3282.20 (risk 1.20%) | LTP 3307.20
+Valid for the next 3 x 125-min candles.
+[2026-08-31 14:37:02] EXIT   HINDZINC (STOPPED OUT) | Stop-loss hit - book out near 600.25
+Entry 623.75 -> 600.25 = -3.77% (-1.00 R)
+[2026-08-31 14:37:03] SETUP  IRB | 125m Supertrend turned GREEN (daily green too).
+Buy above 19.60 | SL 19.31 (risk 1.48%) | LTP 19.30
+Valid for the next 3 x 125-min candles.
+[2026-08-31 14:37:04] CANCEL INDIANB | 125m Supertrend flipped red before entry.
+[2026-08-31 14:37:05] SETUP  LTTS | 125m Supertrend turned GREEN (daily green too).
+Buy above 3641.30 | SL 3573.70 (risk 1.86%) | LTP 3614.60
+Valid for the next 3 x 125-min candles.
+[2026-08-31 14:37:06] >>> ENTRY OFSS <<< | Broke 12060.00. LTP 12189.00
+STOP LOSS 11713.00  (risk 2.88%)
+Exit when the 125-min Supertrend turns red. 1R = 12407.00, 2R = 12754.00
+[2026-08-31 14:37:07] CANCEL PNBHOUSING | 125m Supertrend flipped red before entry.
+[2026-08-31 14:37:07] EXIT   PINELABS (TARGET) | 125m Supertrend turned RED - book out near 164.00
+Entry 165.45 -> 164.00 = -0.88% (-0.29 R)
+[2026-08-31 14:37:08] EXIT   SBFC (TARGET) | 125m Supertrend turned RED - book out near 99.27
+Entry 97.20 -> 99.27 = +2.13% (+0.45 R)
+[2026-08-31 14:37:09] SETUP  SBICARD | 125m Supertrend turned GREEN (daily green too).
+Buy above 660.70 | SL 642.30 (risk 2.78%) | LTP 655.90
+Valid for the next 3 x 125-min candles.
+[2026-08-31 14:37:10] EXIT   UNIONBANK (STOPPED OUT) | Stop-loss hit - book out near 185.23
+Entry 187.30 -> 185.23 = -1.11% (-1.00 R)
