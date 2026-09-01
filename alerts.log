@@ -302,3 +302,34 @@ Buy above 660.70 | SL 642.30 (risk 2.78%) | LTP 655.90
 Valid for the next 3 x 125-min candles.
 [2026-08-31 14:37:10] EXIT   UNIONBANK (STOPPED OUT) | Stop-loss hit - book out near 185.23
 Entry 187.30 -> 185.23 = -1.11% (-1.00 R)
+[2026-09-01 13:38:50] >>> ENTRY BHEL <<< | Broke 438.10. LTP 426.80
+STOP LOSS 418.60  (risk 4.45%)
+Exit when the 125-min Supertrend turns red. 1R = 457.60, 2R = 477.10
+NOTE: price has pulled back to 426.80 - the trigger was hit earlier, between scans.
+[2026-09-01 13:38:51] CANCEL DALBHARAT | 125m Supertrend flipped red before entry.
+[2026-09-01 13:38:52] >>> ENTRY DEEPAKNTR <<< | Broke 1800.00. LTP 1788.20
+STOP LOSS 1755.60  (risk 2.47%)
+Exit when the 125-min Supertrend turns red. 1R = 1844.40, 2R = 1888.80
+NOTE: price has pulled back to 1788.20 - the trigger was hit earlier, between scans.
+[2026-09-01 13:38:53] EXIT   GLAXO (STOPPED OUT) | Stop-loss hit - book out near 2994.40
+Entry 3049.90 -> 2994.40 = -1.82% (-1.00 R)
+[2026-09-01 13:38:53] >>> ENTRY GRASIM <<< | Broke 3322.10. LTP 3301.50
+STOP LOSS 3282.20  (risk 1.20%)
+Exit when the 125-min Supertrend turns red. 1R = 3362.00, 2R = 3401.90
+NOTE: price has pulled back to 3301.50 - the trigger was hit earlier, between scans.
+[2026-09-01 13:38:54] EXIT   HYUNDAI (STOPPED OUT) | Stop-loss hit - book out near 2237.40
+Entry 2279.00 -> 2237.40 = -1.83% (-1.00 R)
+[2026-09-01 13:38:56] >>> ENTRY LTTS <<< | Broke 3641.30. LTP 3592.60
+STOP LOSS 3573.70  (risk 1.86%)
+Exit when the 125-min Supertrend turns red. 1R = 3708.90, 2R = 3776.50
+NOTE: price has pulled back to 3592.60 - the trigger was hit earlier, between scans.
+[2026-09-01 13:38:56] EXIT   LAURUSLABS (TARGET) | 125m Supertrend turned RED - book out near 1841.60
+Entry 1842.00 -> 1841.60 = -0.02% (-0.01 R)
+[2026-09-01 13:38:58] >>> ENTRY SBICARD <<< | Broke 660.70. LTP 636.10
+STOP LOSS 642.30  (risk 2.78%)
+Exit when the 125-min Supertrend turns red. 1R = 679.10, 2R = 697.50
+NOTE: price has pulled back to 636.10 - the trigger was hit earlier, between scans.
+[2026-09-01 13:38:58] EXIT   SBICARD (STOPPED OUT) | Stop-loss hit - book out near 642.30
+Entry 660.70 -> 642.30 = -2.78% (-1.00 R)
+[2026-09-01 13:38:59] EXIT   TATACAP (STOPPED OUT) | Stop-loss hit - book out near 364.15
+Entry 369.75 -> 364.15 = -1.51% (-1.00 R)
