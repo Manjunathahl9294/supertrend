@@ -333,3 +333,20 @@ NOTE: price has pulled back to 636.10 - the trigger was hit earlier, between sca
 Entry 660.70 -> 642.30 = -2.78% (-1.00 R)
 [2026-09-01 13:38:59] EXIT   TATACAP (STOPPED OUT) | Stop-loss hit - book out near 364.15
 Entry 369.75 -> 364.15 = -1.51% (-1.00 R)
+[2026-09-02 12:58:52] EXIT   APARINDS (STOPPED OUT) | Stop-loss hit - book out near 17200.00
+Entry 17620.00 -> 17200.00 = -2.38% (-1.00 R)
+[2026-09-02 12:58:53] EXIT   BHEL (STOPPED OUT) | Stop-loss hit - book out near 418.60
+Entry 438.10 -> 418.60 = -4.45% (-1.00 R)
+[2026-09-02 12:58:54] EXIT   DEEPAKNTR (STOPPED OUT) | Stop-loss hit - book out near 1755.60
+Entry 1800.00 -> 1755.60 = -2.47% (-1.00 R)
+[2026-09-02 12:58:56] EXIT   GRASIM (STOPPED OUT) | Stop-loss hit - book out near 3282.20
+Entry 3322.10 -> 3282.20 = -1.20% (-1.00 R)
+[2026-09-02 12:58:57] EXIT   LTTS (STOPPED OUT) | Stop-loss hit - book out near 3573.70
+Entry 3641.30 -> 3573.70 = -1.86% (-1.00 R)
+[2026-09-02 12:58:58] EXIT   LGEINDIA (STOPPED OUT) | Stop-loss hit - book out near 1654.00
+Entry 1686.50 -> 1654.00 = -1.93% (-1.00 R)
+[2026-09-02 12:58:59] EXIT   NAVINFLUOR (TARGET) | 125m Supertrend turned RED - book out near 8399.00
+Entry 8344.50 -> 8399.00 = +0.65% (+0.48 R)
+[2026-09-02 12:59:00] SETUP  NUVAMA | 125m Supertrend turned GREEN (daily green too).
+Buy above 1903.00 | SL 1752.50 (risk 7.91%) | LTP 1842.30
+Valid for the next 3 x 125-min candles.
