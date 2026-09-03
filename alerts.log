@@ -350,3 +350,54 @@ Entry 8344.50 -> 8399.00 = +0.65% (+0.48 R)
 [2026-09-02 12:59:00] SETUP  NUVAMA | 125m Supertrend turned GREEN (daily green too).
 Buy above 1903.00 | SL 1752.50 (risk 7.91%) | LTP 1842.30
 Valid for the next 3 x 125-min candles.
+[2026-09-03 13:02:35] SETUP  ABREL | 125m Supertrend turned GREEN (daily green too).
+Buy above 1386.90 | SL 1341.10 (risk 3.30%) | LTP 1380.00
+Valid for the next 3 x 125-min candles.
+[2026-09-03 13:02:36] SETUP  APARINDS | 125m Supertrend turned GREEN (daily green too).
+Buy above 17690.00 | SL 17093.00 (risk 3.37%) | LTP 17602.00
+Valid for the next 3 x 125-min candles.
+[2026-09-03 13:02:36] >>> ENTRY APARINDS <<< | Broke 17690.00. LTP 17602.00
+STOP LOSS 17093.00  (risk 3.37%)
+Exit when the 125-min Supertrend turns red. 1R = 18287.00, 2R = 18884.00
+NOTE: price has pulled back to 17602.00 - the trigger was hit earlier, between scans.
+[2026-09-03 13:02:37] EXIT   ATHERENERG (TARGET) | 125m Supertrend turned RED - book out near 1646.70
+Entry 1489.50 -> 1646.70 = +10.55% (+3.45 R)
+[2026-09-03 13:02:38] SETUP  BANKINDIA | 125m Supertrend turned GREEN (daily green too).
+Buy above 146.10 | SL 143.54 (risk 1.75%) | LTP 144.51
+Valid for the next 3 x 125-min candles.
+[2026-09-03 13:02:38] SETUP  MAHABANK | 125m Supertrend turned GREEN (daily green too).
+Buy above 86.78 | SL 82.88 (risk 4.49%) | LTP 87.00
+Valid for the next 3 x 125-min candles.
+[2026-09-03 13:02:39] >>> ENTRY MAHABANK <<< | Broke 86.78. LTP 87.00
+STOP LOSS 82.88  (risk 4.49%)
+Exit when the 125-min Supertrend turns red. 1R = 90.68, 2R = 94.58
+[2026-09-03 13:02:39] SETUP  BRIGADE | 125m Supertrend turned GREEN (daily green too).
+Buy above 670.75 | SL 642.70 (risk 4.18%) | LTP 666.90
+Valid for the next 3 x 125-min candles.
+[2026-09-03 13:02:40] EXIT   CRISIL (TARGET) | 125m Supertrend turned RED - book out near 4771.10
+Entry 4661.40 -> 4771.10 = +2.35% (+0.69 R)
+[2026-09-03 13:02:41] SETUP  DLF | 125m Supertrend turned GREEN (daily green too).
+Buy above 689.35 | SL 673.20 (risk 2.34%) | LTP 679.05
+Valid for the next 3 x 125-min candles.
+[2026-09-03 13:02:42] >>> ENTRY IRB <<< | Broke 19.60. LTP 19.90
+STOP LOSS 19.31  (risk 1.48%)
+Exit when the 125-min Supertrend turns red. 1R = 19.89, 2R = 20.18
+[2026-09-03 13:02:43] SETUP  JMFINANCIL | 125m Supertrend turned GREEN (daily green too).
+Buy above 132.95 | SL 130.04 (risk 2.19%) | LTP 131.99
+Valid for the next 3 x 125-min candles.
+[2026-09-03 13:02:44] SETUP  NETWEB | 125m Supertrend turned GREEN (daily green too).
+Buy above 5345.00 | SL 5115.50 (risk 4.29%) | LTP 5323.00
+Valid for the next 3 x 125-min candles.
+[2026-09-03 13:02:44] >>> ENTRY NETWEB <<< | Broke 5345.00. LTP 5323.00
+STOP LOSS 5115.50  (risk 4.29%)
+Exit when the 125-min Supertrend turns red. 1R = 5574.50, 2R = 5804.00
+NOTE: price has pulled back to 5323.00 - the trigger was hit earlier, between scans.
+[2026-09-03 13:02:45] SETUP  OBEROIRLTY | 125m Supertrend turned GREEN (daily green too).
+Buy above 1912.60 | SL 1868.60 (risk 2.30%) | LTP 1893.20
+Valid for the next 3 x 125-min candles.
+[2026-09-03 13:02:46] SETUP  SBICARD | 125m Supertrend turned GREEN (daily green too).
+Buy above 667.10 | SL 644.75 (risk 3.35%) | LTP 656.35
+Valid for the next 3 x 125-min candles.
+[2026-09-03 13:02:47] SETUP  ZYDUSWELL | 125m Supertrend turned GREEN (daily green too).
+Buy above 541.10 | SL 535.50 (risk 1.03%) | LTP 539.15
+Valid for the next 3 x 125-min candles.
