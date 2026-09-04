@@ -401,3 +401,71 @@ Valid for the next 3 x 125-min candles.
 [2026-09-03 13:02:47] SETUP  ZYDUSWELL | 125m Supertrend turned GREEN (daily green too).
 Buy above 541.10 | SL 535.50 (risk 1.03%) | LTP 539.15
 Valid for the next 3 x 125-min candles.
+[2026-09-04 13:04:22] >>> ENTRY ABREL <<< | Broke 1386.90. LTP 1365.10
+STOP LOSS 1341.10  (risk 3.30%)
+Exit when the 125-min Supertrend turns red. 1R = 1432.70, 2R = 1478.50
+NOTE: price has pulled back to 1365.10 - the trigger was hit earlier, between scans.
+[2026-09-04 13:04:24] SETUP  GROWW | 125m Supertrend turned GREEN (daily green too).
+Buy above 195.60 | SL 191.90 (risk 1.89%) | LTP 194.28
+Valid for the next 3 x 125-min candles.
+[2026-09-04 13:04:24] >>> ENTRY BRIGADE <<< | Broke 670.75. LTP 692.70
+STOP LOSS 642.70  (risk 4.18%)
+Exit when the 125-min Supertrend turns red. 1R = 698.80, 2R = 726.85
+[2026-09-04 13:04:25] SETUP  CDSL | 125m Supertrend turned GREEN (daily green too).
+Buy above 1417.70 | SL 1401.00 (risk 1.18%) | LTP 1393.60
+Valid for the next 3 x 125-min candles.
+[2026-09-04 13:04:26] >>> ENTRY DLF <<< | Broke 689.35. LTP 682.45
+STOP LOSS 673.20  (risk 2.34%)
+Exit when the 125-min Supertrend turns red. 1R = 705.50, 2R = 721.65
+NOTE: price has pulled back to 682.45 - the trigger was hit earlier, between scans.
+[2026-09-04 13:04:27] SETUP  MEDANTA | 125m Supertrend turned GREEN (daily green too).
+Buy above 1475.80 | SL 1425.10 (risk 3.44%) | LTP 1483.90
+Valid for the next 3 x 125-min candles.
+[2026-09-04 13:04:28] >>> ENTRY MEDANTA <<< | Broke 1475.80. LTP 1483.90
+STOP LOSS 1425.10  (risk 3.44%)
+Exit when the 125-min Supertrend turns red. 1R = 1526.50, 2R = 1577.20
+[2026-09-04 13:04:29] >>> ENTRY JMFINANCIL <<< | Broke 132.95. LTP 130.82
+STOP LOSS 130.04  (risk 2.19%)
+Exit when the 125-min Supertrend turns red. 1R = 135.86, 2R = 138.77
+NOTE: price has pulled back to 130.82 - the trigger was hit earlier, between scans.
+[2026-09-04 13:04:30] SETUP  MMTC | 125m Supertrend turned GREEN (daily green too).
+Buy above 66.12 | SL 62.61 (risk 5.31%) | LTP 64.36
+Valid for the next 3 x 125-min candles.
+[2026-09-04 13:04:32] SETUP  NEWGEN | 125m Supertrend turned GREEN (daily green too).
+Buy above 537.00 | SL 522.75 (risk 2.65%) | LTP 529.60
+Valid for the next 3 x 125-min candles.
+[2026-09-04 13:04:32] >>> ENTRY NEWGEN <<< | Broke 537.00. LTP 529.60
+STOP LOSS 522.75  (risk 2.65%)
+Exit when the 125-min Supertrend turns red. 1R = 551.25, 2R = 565.50
+NOTE: price has pulled back to 529.60 - the trigger was hit earlier, between scans.
+[2026-09-04 13:04:33] >>> ENTRY OBEROIRLTY <<< | Broke 1912.60. LTP 1890.40
+STOP LOSS 1868.60  (risk 2.30%)
+Exit when the 125-min Supertrend turns red. 1R = 1956.60, 2R = 2000.60
+NOTE: price has pulled back to 1890.40 - the trigger was hit earlier, between scans.
+[2026-09-04 13:04:34] SETUP  PAYTM | 125m Supertrend turned GREEN (daily green too).
+Buy above 1690.90 | SL 1627.00 (risk 3.78%) | LTP 1666.50
+Valid for the next 3 x 125-min candles.
+[2026-09-04 13:04:34] >>> ENTRY PAYTM <<< | Broke 1690.90. LTP 1666.50
+STOP LOSS 1627.00  (risk 3.78%)
+Exit when the 125-min Supertrend turns red. 1R = 1754.80, 2R = 1818.70
+NOTE: price has pulled back to 1666.50 - the trigger was hit earlier, between scans.
+[2026-09-04 13:04:35] SETUP  PNBHOUSING | 125m Supertrend turned GREEN (daily green too).
+Buy above 1177.00 | SL 1153.10 (risk 2.03%) | LTP 1176.50
+Valid for the next 3 x 125-min candles.
+[2026-09-04 13:04:35] >>> ENTRY PNBHOUSING <<< | Broke 1177.00. LTP 1176.50
+STOP LOSS 1153.10  (risk 2.03%)
+Exit when the 125-min Supertrend turns red. 1R = 1200.90, 2R = 1224.80
+NOTE: price has pulled back to 1176.50 - the trigger was hit earlier, between scans.
+[2026-09-04 13:04:36] SETUP  PFOCUS | 125m Supertrend turned GREEN (daily green too).
+Buy above 304.45 | SL 290.05 (risk 4.73%) | LTP 296.40
+Valid for the next 3 x 125-min candles.
+[2026-09-04 13:04:37] >>> ENTRY SBICARD <<< | Broke 667.10. LTP 664.20
+STOP LOSS 644.75  (risk 3.35%)
+Exit when the 125-min Supertrend turns red. 1R = 689.45, 2R = 711.80
+NOTE: price has pulled back to 664.20 - the trigger was hit earlier, between scans.
+[2026-09-04 13:04:39] >>> ENTRY ZYDUSWELL <<< | Broke 541.10. LTP 535.10
+STOP LOSS 535.50  (risk 1.03%)
+Exit when the 125-min Supertrend turns red. 1R = 546.70, 2R = 552.30
+NOTE: price has pulled back to 535.10 - the trigger was hit earlier, between scans.
+[2026-09-04 13:04:40] EXIT   ZYDUSWELL (STOPPED OUT) | Stop-loss hit - book out near 535.50
+Entry 541.10 -> 535.50 = -1.03% (-1.00 R)
