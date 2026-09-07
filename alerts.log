@@ -469,3 +469,52 @@ Exit when the 125-min Supertrend turns red. 1R = 546.70, 2R = 552.30
 NOTE: price has pulled back to 535.10 - the trigger was hit earlier, between scans.
 [2026-09-04 13:04:40] EXIT   ZYDUSWELL (STOPPED OUT) | Stop-loss hit - book out near 535.50
 Entry 541.10 -> 535.50 = -1.03% (-1.00 R)
+[2026-09-07 13:13:10] CANCEL BANKINDIA | 125m Supertrend flipped red before entry.
+[2026-09-07 13:13:11] >>> ENTRY GROWW <<< | Broke 195.60. LTP 194.55
+STOP LOSS 191.90  (risk 1.89%)
+Exit when the 125-min Supertrend turns red. 1R = 199.30, 2R = 203.00
+NOTE: price has pulled back to 194.55 - the trigger was hit earlier, between scans.
+[2026-09-07 13:13:12] SETUP  CARTRADE | 125m Supertrend turned GREEN (daily green too).
+Buy above 3180.50 | SL 3008.50 (risk 5.41%) | LTP 3194.60
+Valid for the next 3 x 125-min candles.
+[2026-09-07 13:13:12] >>> ENTRY CARTRADE <<< | Broke 3180.50. LTP 3194.60
+STOP LOSS 3008.50  (risk 5.41%)
+Exit when the 125-min Supertrend turns red. 1R = 3352.50, 2R = 3524.50
+[2026-09-07 13:13:13] >>> ENTRY CDSL <<< | Broke 1417.70. LTP 1412.30
+STOP LOSS 1401.00  (risk 1.18%)
+Exit when the 125-min Supertrend turns red. 1R = 1434.40, 2R = 1451.10
+NOTE: price has pulled back to 1412.30 - the trigger was hit earlier, between scans.
+[2026-09-07 13:13:14] EXIT   MEDANTA (STOPPED OUT) | Stop-loss hit - book out near 1425.10
+Entry 1475.80 -> 1425.10 = -3.44% (-1.00 R)
+[2026-09-07 13:13:15] EXIT   IRB (STOPPED OUT) | Stop-loss hit - book out near 19.31
+Entry 19.60 -> 19.31 = -1.48% (-1.00 R)
+[2026-09-07 13:13:16] EXIT   JMFINANCIL (STOPPED OUT) | Stop-loss hit - book out near 130.04
+Entry 132.95 -> 130.04 = -2.19% (-1.00 R)
+[2026-09-07 13:13:18] SETUP  MCX | 125m Supertrend turned GREEN (daily green too).
+Buy above 3357.00 | SL 3285.00 (risk 2.14%) | LTP 3348.80
+Valid for the next 3 x 125-min candles.
+[2026-09-07 13:13:18] >>> ENTRY MCX <<< | Broke 3357.00. LTP 3348.80
+STOP LOSS 3285.00  (risk 2.14%)
+Exit when the 125-min Supertrend turns red. 1R = 3429.00, 2R = 3501.00
+NOTE: price has pulled back to 3348.80 - the trigger was hit earlier, between scans.
+[2026-09-07 13:13:19] SETUP  NH | 125m Supertrend turned GREEN (daily green too).
+Buy above 1915.00 | SL 1874.90 (risk 2.09%) | LTP 1908.50
+Valid for the next 3 x 125-min candles.
+[2026-09-07 13:13:19] >>> ENTRY NH <<< | Broke 1915.00. LTP 1908.50
+STOP LOSS 1874.90  (risk 2.09%)
+Exit when the 125-min Supertrend turns red. 1R = 1955.10, 2R = 1995.20
+NOTE: price has pulled back to 1908.50 - the trigger was hit earlier, between scans.
+[2026-09-07 13:13:20] EXIT   NEWGEN (STOPPED OUT) | Stop-loss hit - book out near 522.75
+Entry 537.00 -> 522.75 = -2.65% (-1.00 R)
+[2026-09-07 13:13:20] EXIT   OBEROIRLTY (STOPPED OUT) | Stop-loss hit - book out near 1868.60
+Entry 1912.60 -> 1868.60 = -2.30% (-1.00 R)
+[2026-09-07 13:13:21] EXIT   OFSS (TARGET) | 125m Supertrend turned RED - book out near 11747.00
+Entry 12060.00 -> 11747.00 = -2.60% (-0.90 R)
+[2026-09-07 13:13:22] >>> ENTRY PFOCUS <<< | Broke 304.45. LTP 308.05
+STOP LOSS 290.05  (risk 4.73%)
+Exit when the 125-min Supertrend turns red. 1R = 318.85, 2R = 333.25
+[2026-09-07 13:13:23] EXIT   SIEMENS (TARGET) | 125m Supertrend turned RED - book out near 3939.90
+Entry 4110.00 -> 3939.90 = -4.14% (-0.84 R)
+[2026-09-07 13:13:24] SETUP  SYRMA | 125m Supertrend turned GREEN (daily green too).
+Buy above 1625.90 | SL 1464.40 (risk 9.93%) | LTP 1606.00
+Valid for the next 3 x 125-min candles.
