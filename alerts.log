@@ -518,3 +518,52 @@ Entry 4110.00 -> 3939.90 = -4.14% (-0.84 R)
 [2026-09-07 13:13:24] SETUP  SYRMA | 125m Supertrend turned GREEN (daily green too).
 Buy above 1625.90 | SL 1464.40 (risk 9.93%) | LTP 1606.00
 Valid for the next 3 x 125-min candles.
+[2026-09-08 13:06:09] SETUP  AUROPHARMA | 125m Supertrend turned GREEN (daily green too).
+Buy above 1691.60 | SL 1655.10 (risk 2.16%) | LTP 1682.20
+Valid for the next 3 x 125-min candles.
+[2026-09-08 13:06:10] >>> ENTRY AUROPHARMA <<< | Broke 1691.60. LTP 1682.20
+STOP LOSS 1655.10  (risk 2.16%)
+Exit when the 125-min Supertrend turns red. 1R = 1728.10, 2R = 1764.60
+NOTE: price has pulled back to 1682.20 - the trigger was hit earlier, between scans.
+[2026-09-08 13:06:11] SETUP  BEL | 125m Supertrend turned GREEN (daily green too).
+Buy above 415.50 | SL 406.50 (risk 2.17%) | LTP 412.35
+Valid for the next 3 x 125-min candles.
+[2026-09-08 13:06:12] >>> ENTRY BEL <<< | Broke 415.50. LTP 412.35
+STOP LOSS 406.50  (risk 2.17%)
+Exit when the 125-min Supertrend turns red. 1R = 424.50, 2R = 433.50
+NOTE: price has pulled back to 412.35 - the trigger was hit earlier, between scans.
+[2026-09-08 13:06:13] EXIT   CDSL (STOPPED OUT) | Stop-loss hit - book out near 1401.00
+Entry 1417.70 -> 1401.00 = -1.18% (-1.00 R)
+[2026-09-08 13:06:14] EXIT   DLF (STOPPED OUT) | Stop-loss hit - book out near 673.20
+Entry 689.35 -> 673.20 = -2.34% (-1.00 R)
+[2026-09-08 13:06:14] SETUP  DATAPATTNS | 125m Supertrend turned GREEN (daily green too).
+Buy above 4919.00 | SL 4617.10 (risk 6.14%) | LTP 4918.00
+Valid for the next 3 x 125-min candles.
+[2026-09-08 13:06:15] >>> ENTRY DATAPATTNS <<< | Broke 4919.00. LTP 4918.00
+STOP LOSS 4617.10  (risk 6.14%)
+Exit when the 125-min Supertrend turns red. 1R = 5220.90, 2R = 5522.80
+NOTE: price has pulled back to 4918.00 - the trigger was hit earlier, between scans.
+[2026-09-08 13:06:16] SETUP  GVT&D | 125m Supertrend turned GREEN (daily green too).
+Buy above 4747.00 | SL 4612.50 (risk 2.83%) | LTP 4768.20
+Valid for the next 3 x 125-min candles.
+[2026-09-08 13:06:16] >>> ENTRY GVT&D <<< | Broke 4747.00. LTP 4768.20
+STOP LOSS 4612.50  (risk 2.83%)
+Exit when the 125-min Supertrend turns red. 1R = 4881.50, 2R = 5016.00
+[2026-09-08 13:06:18] SETUP  LTFOODS | 125m Supertrend turned GREEN (daily green too).
+Buy above 463.65 | SL 447.00 (risk 3.59%) | LTP 460.40
+Valid for the next 3 x 125-min candles.
+[2026-09-08 13:06:19] >>> ENTRY LTFOODS <<< | Broke 463.65. LTP 460.40
+STOP LOSS 447.00  (risk 3.59%)
+Exit when the 125-min Supertrend turns red. 1R = 480.30, 2R = 496.95
+NOTE: price has pulled back to 460.40 - the trigger was hit earlier, between scans.
+[2026-09-08 13:06:20] EXIT   MCX (STOPPED OUT) | Stop-loss hit - book out near 3285.00
+Entry 3357.00 -> 3285.00 = -2.14% (-1.00 R)
+[2026-09-08 13:06:21] EXIT   NETWEB (STOPPED OUT) | Stop-loss hit - book out near 5115.50
+Entry 5345.00 -> 5115.50 = -4.29% (-1.00 R)
+[2026-09-08 13:06:21] SETUP  NEULANDLAB | 125m Supertrend turned GREEN (daily green too).
+Buy above 23830.00 | SL 23040.00 (risk 3.32%) | LTP 23730.00
+Valid for the next 3 x 125-min candles.
+[2026-09-08 13:06:22] EXPIRE NUVAMA | No breakout of 1903.00 within 3 candles.
+[2026-09-08 13:06:24] >>> ENTRY SYRMA <<< | Broke 1625.90. LTP 1645.70
+STOP LOSS 1464.40  (risk 9.93%)
+Exit when the 125-min Supertrend turns red. 1R = 1787.40, 2R = 1948.90
