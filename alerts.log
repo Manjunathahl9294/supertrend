@@ -567,3 +567,31 @@ Valid for the next 3 x 125-min candles.
 [2026-09-08 13:06:24] >>> ENTRY SYRMA <<< | Broke 1625.90. LTP 1645.70
 STOP LOSS 1464.40  (risk 9.93%)
 Exit when the 125-min Supertrend turns red. 1R = 1787.40, 2R = 1948.90
+[2026-09-09 13:12:18] EXIT   ABREL (STOPPED OUT) | Stop-loss hit - book out near 1341.10
+Entry 1386.90 -> 1341.10 = -3.30% (-1.00 R)
+[2026-09-09 13:12:19] EXIT   MAHABANK (TARGET) | 125m Supertrend turned RED - book out near 83.75
+Entry 86.78 -> 83.75 = -3.49% (-0.78 R)
+[2026-09-09 13:12:20] EXIT   BRIGADE (TARGET) | 125m Supertrend turned RED - book out near 670.05
+Entry 670.75 -> 670.05 = -0.10% (-0.02 R)
+[2026-09-09 13:12:20] EXIT   CARTRADE (TARGET) | 125m Supertrend turned RED - book out near 3069.00
+Entry 3180.50 -> 3069.00 = -3.51% (-0.65 R)
+[2026-09-09 13:12:21] EXIT   CUB (TARGET) | 125m Supertrend turned RED - book out near 230.34
+Entry 220.09 -> 230.34 = +4.66% (+3.61 R)
+[2026-09-09 13:12:22] SETUP  MEDANTA | 125m Supertrend turned GREEN (daily green too).
+Buy above 1477.60 | SL 1432.00 (risk 3.09%) | LTP 1472.90
+Valid for the next 3 x 125-min candles.
+[2026-09-09 13:12:23] >>> ENTRY MEDANTA <<< | Broke 1477.60. LTP 1472.90
+STOP LOSS 1432.00  (risk 3.09%)
+Exit when the 125-min Supertrend turns red. 1R = 1523.20, 2R = 1568.80
+NOTE: price has pulled back to 1472.90 - the trigger was hit earlier, between scans.
+[2026-09-09 13:12:23] SETUP  FLUOROCHEM | 125m Supertrend turned GREEN (daily green too).
+Buy above 4738.20 | SL 4653.50 (risk 1.79%) | LTP 4698.40
+Valid for the next 3 x 125-min candles.
+[2026-09-09 13:12:26] EXIT   NH (STOPPED OUT) | Stop-loss hit - book out near 1874.90
+Entry 1915.00 -> 1874.90 = -2.09% (-1.00 R)
+[2026-09-09 13:12:26] >>> ENTRY NEULANDLAB <<< | Broke 23830.00. LTP 23465.00
+STOP LOSS 23040.00  (risk 3.32%)
+Exit when the 125-min Supertrend turns red. 1R = 24620.00, 2R = 25410.00
+NOTE: price has pulled back to 23465.00 - the trigger was hit earlier, between scans.
+[2026-09-09 13:12:27] EXIT   PNBHOUSING (STOPPED OUT) | Stop-loss hit - book out near 1153.10
+Entry 1177.00 -> 1153.10 = -2.03% (-1.00 R)
