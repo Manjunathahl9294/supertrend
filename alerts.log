@@ -595,3 +595,33 @@ Exit when the 125-min Supertrend turns red. 1R = 24620.00, 2R = 25410.00
 NOTE: price has pulled back to 23465.00 - the trigger was hit earlier, between scans.
 [2026-09-09 13:12:27] EXIT   PNBHOUSING (STOPPED OUT) | Stop-loss hit - book out near 1153.10
 Entry 1177.00 -> 1153.10 = -2.03% (-1.00 R)
+[2026-09-10 13:10:30] EXIT   APARINDS (STOPPED OUT) | Stop-loss hit - book out near 17093.00
+Entry 17690.00 -> 17093.00 = -3.37% (-1.00 R)
+[2026-09-10 13:10:31] EXIT   BEL (STOPPED OUT) | Stop-loss hit - book out near 406.50
+Entry 415.50 -> 406.50 = -2.17% (-1.00 R)
+[2026-09-10 13:10:32] EXIT   GVT&D (STOPPED OUT) | Stop-loss hit - book out near 4612.50
+Entry 4747.00 -> 4612.50 = -2.83% (-1.00 R)
+[2026-09-10 13:10:33] >>> ENTRY FLUOROCHEM <<< | Broke 4738.20. LTP 4775.50
+STOP LOSS 4653.50  (risk 1.79%)
+Exit when the 125-min Supertrend turns red. 1R = 4822.90, 2R = 4907.60
+[2026-09-10 13:10:34] SETUP  IRB | 125m Supertrend turned GREEN (daily green too).
+Buy above 20.47 | SL 19.51 (risk 4.69%) | LTP 19.50
+Valid for the next 3 x 125-min candles.
+[2026-09-10 13:10:35] SETUP  KPIL | 125m Supertrend turned GREEN (daily green too).
+Buy above 1431.80 | SL 1403.30 (risk 1.99%) | LTP 1425.00
+Valid for the next 3 x 125-min candles.
+[2026-09-10 13:10:35] >>> ENTRY KPIL <<< | Broke 1431.80. LTP 1425.00
+STOP LOSS 1403.30  (risk 1.99%)
+Exit when the 125-min Supertrend turns red. 1R = 1460.30, 2R = 1488.80
+NOTE: price has pulled back to 1425.00 - the trigger was hit earlier, between scans.
+[2026-09-10 13:10:36] EXIT   LTFOODS (STOPPED OUT) | Stop-loss hit - book out near 447.00
+Entry 463.65 -> 447.00 = -3.59% (-1.00 R)
+[2026-09-10 13:10:36] CANCEL MMTC | 125m Supertrend flipped red before entry.
+[2026-09-10 13:10:37] EXIT   NEULANDLAB (TARGET) | 125m Supertrend turned RED - book out near 23785.00
+Entry 23830.00 -> 23785.00 = -0.19% (-0.06 R)
+[2026-09-10 13:10:38] SETUP  OLAELEC | 125m Supertrend turned GREEN (daily green too).
+Buy above 40.30 | SL 37.34 (risk 7.34%) | LTP 39.41
+Valid for the next 3 x 125-min candles.
+[2026-09-10 13:10:39] SETUP  TECHNOE | 125m Supertrend turned GREEN (daily green too).
+Buy above 1012.25 | SL 989.65 (risk 2.23%) | LTP 988.70
+Valid for the next 3 x 125-min candles.
