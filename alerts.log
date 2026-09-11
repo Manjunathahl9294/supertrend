@@ -625,3 +625,8 @@ Valid for the next 3 x 125-min candles.
 [2026-09-10 13:10:39] SETUP  TECHNOE | 125m Supertrend turned GREEN (daily green too).
 Buy above 1012.25 | SL 989.65 (risk 2.23%) | LTP 988.70
 Valid for the next 3 x 125-min candles.
+[2026-09-11 13:08:02] SETUP  FIVESTAR | 125m Supertrend turned GREEN (daily green too).
+Buy above 556.85 | SL 521.80 (risk 6.29%) | LTP 551.65
+Valid for the next 3 x 125-min candles.
+[2026-09-11 13:08:04] EXIT   KPIL (STOPPED OUT) | Stop-loss hit - book out near 1403.30
+Entry 1431.80 -> 1403.30 = -1.99% (-1.00 R)
