@@ -639,3 +639,31 @@ Valid for the next 3 x 125-min candles.
 [2026-09-14 13:51:08] SETUP  SAGILITY | 125m Supertrend turned GREEN (daily green too).
 Buy above 45.49 | SL 44.84 (risk 1.43%) | LTP 45.20
 Valid for the next 3 x 125-min candles.
+[2026-09-15 13:43:10] >>> ENTRY BSE <<< | Broke 3394.30. LTP 3347.70
+STOP LOSS 3211.50  (risk 5.39%)
+Exit when the 125-min Supertrend turns red. 1R = 3577.10, 2R = 3759.90
+NOTE: price has pulled back to 3347.70 - the trigger was hit earlier, between scans.
+[2026-09-15 13:43:11] EXIT   DATAPATTNS (STOPPED OUT) | Stop-loss hit - book out near 4617.10
+Entry 4919.00 -> 4617.10 = -6.14% (-1.00 R)
+[2026-09-15 13:43:12] >>> ENTRY FIVESTAR <<< | Broke 556.85. LTP 544.20
+STOP LOSS 521.80  (risk 6.29%)
+Exit when the 125-min Supertrend turns red. 1R = 591.90, 2R = 626.95
+NOTE: price has pulled back to 544.20 - the trigger was hit earlier, between scans.
+[2026-09-15 13:43:13] EXIT   MEDANTA (STOPPED OUT) | Stop-loss hit - book out near 1432.00
+Entry 1477.60 -> 1432.00 = -3.09% (-1.00 R)
+[2026-09-15 13:43:13] EXIT   FLUOROCHEM (STOPPED OUT) | Stop-loss hit - book out near 4653.50
+Entry 4738.20 -> 4653.50 = -1.79% (-1.00 R)
+[2026-09-15 13:43:14] CANCEL IRB | 125m Supertrend flipped red before entry.
+[2026-09-15 13:43:15] EXIT   JINDALSAW (TARGET) | 125m Supertrend turned RED - book out near 294.50
+Entry 307.90 -> 294.50 = -4.35% (-0.75 R)
+[2026-09-15 13:43:17] EXIT   SBICARD (STOPPED OUT) | Stop-loss hit - book out near 644.75
+Entry 667.10 -> 644.75 = -3.35% (-1.00 R)
+[2026-09-15 13:43:17] >>> ENTRY SAGILITY <<< | Broke 45.49. LTP 45.95
+STOP LOSS 44.84  (risk 1.43%)
+Exit when the 125-min Supertrend turns red. 1R = 46.14, 2R = 46.79
+[2026-09-15 13:43:19] EXIT   SYRMA (TARGET) | 125m Supertrend turned RED - book out near 1526.80
+Entry 1625.90 -> 1526.80 = -6.10% (-0.61 R)
+[2026-09-15 13:43:20] CANCEL TECHNOE | 125m Supertrend flipped red before entry.
+[2026-09-15 13:43:21] SETUP  TORNTPOWER | 125m Supertrend turned GREEN (daily green too).
+Buy above 1325.80 | SL 1300.00 (risk 1.95%) | LTP 1304.40
+Valid for the next 3 x 125-min candles.
