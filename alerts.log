@@ -667,3 +667,22 @@ Entry 1625.90 -> 1526.80 = -6.10% (-0.61 R)
 [2026-09-15 13:43:21] SETUP  TORNTPOWER | 125m Supertrend turned GREEN (daily green too).
 Buy above 1325.80 | SL 1300.00 (risk 1.95%) | LTP 1304.40
 Valid for the next 3 x 125-min candles.
+[2026-09-16 13:36:38] EXIT   AUROPHARMA (STOPPED OUT) | Stop-loss hit - book out near 1655.10
+Entry 1691.60 -> 1655.10 = -2.16% (-1.00 R)
+[2026-09-16 13:36:39] EXIT   BSE (TARGET) | 125m Supertrend turned RED - book out near 3251.30
+Entry 3394.30 -> 3251.30 = -4.21% (-0.78 R)
+[2026-09-16 13:36:39] EXIT   GROWW (STOPPED OUT) | Stop-loss hit - book out near 191.90
+Entry 195.60 -> 191.90 = -1.89% (-1.00 R)
+[2026-09-16 13:36:40] SETUP  CGCL | 125m Supertrend turned GREEN (daily green too).
+Buy above 267.20 | SL 252.10 (risk 5.65%) | LTP 260.30
+Valid for the next 3 x 125-min candles.
+[2026-09-16 13:36:42] SETUP  GLENMARK | 125m Supertrend turned GREEN (daily green too).
+Buy above 2425.80 | SL 2374.00 (risk 2.14%) | LTP 2416.00
+Valid for the next 3 x 125-min candles.
+[2026-09-16 13:36:44] CANCEL OLAELEC | 125m Supertrend flipped red before entry.
+[2026-09-16 13:36:45] EXIT   PAYTM (TARGET) | 125m Supertrend turned RED - book out near 1779.80
+Entry 1690.90 -> 1779.80 = +5.26% (+1.39 R)
+[2026-09-16 13:36:45] SETUP  POLICYBZR | 125m Supertrend turned GREEN (daily green too).
+Buy above 1815.50 | SL 1736.20 (risk 4.37%) | LTP 1798.70
+Valid for the next 3 x 125-min candles.
+[2026-09-16 13:36:46] CANCEL PTCIL | 125m Supertrend flipped red before entry.
