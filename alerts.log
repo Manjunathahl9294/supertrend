@@ -725,3 +725,102 @@ Entry 45.49 -> 44.84 = -1.43% (-1.00 R)
 [2026-09-17 13:43:30] SETUP  VIJAYA | 125m Supertrend turned GREEN (daily green too).
 Buy above 1487.40 | SL 1452.00 (risk 2.38%) | LTP 1481.80
 Valid for the next 3 x 125-min candles.
+[2026-09-18 13:17:42] SETUP  ANANDRATHI | 125m Supertrend turned GREEN (daily green too).
+Buy above 2268.40 | SL 2210.40 (risk 2.56%) | LTP 2234.60
+Valid for the next 3 x 125-min candles.
+[2026-09-18 13:17:43] >>> ENTRY BHEL <<< | Broke 429.35. LTP 432.25
+STOP LOSS 418.30  (risk 2.57%)
+Exit when the 125-min Supertrend turns red. 1R = 440.40, 2R = 451.45
+[2026-09-18 13:17:44] >>> ENTRY CANHLIFE <<< | Broke 156.00. LTP 152.99
+STOP LOSS 153.09  (risk 1.87%)
+Exit when the 125-min Supertrend turns red. 1R = 158.91, 2R = 161.82
+NOTE: price has pulled back to 152.99 - the trigger was hit earlier, between scans.
+[2026-09-18 13:17:44] EXIT   CANHLIFE (STOPPED OUT) | Stop-loss hit - book out near 153.09
+Entry 156.00 -> 153.09 = -1.87% (-1.00 R)
+[2026-09-18 13:17:45] >>> ENTRY CGCL <<< | Broke 267.20. LTP 269.95
+STOP LOSS 252.10  (risk 5.65%)
+Exit when the 125-min Supertrend turns red. 1R = 282.30, 2R = 297.40
+[2026-09-18 13:17:46] SETUP  CLEAN | 125m Supertrend turned GREEN (daily green too).
+Buy above 872.80 | SL 826.95 (risk 5.25%) | LTP 854.35
+Valid for the next 3 x 125-min candles.
+[2026-09-18 13:17:47] >>> ENTRY DIVISLAB <<< | Broke 9354.50. LTP 9372.00
+STOP LOSS 9252.00  (risk 1.10%)
+Exit when the 125-min Supertrend turns red. 1R = 9457.00, 2R = 9559.50
+[2026-09-18 13:17:47] SETUP  EMCURE | 125m Supertrend turned GREEN (daily green too).
+Buy above 1984.90 | SL 1926.00 (risk 2.97%) | LTP 1984.60
+Valid for the next 3 x 125-min candles.
+[2026-09-18 13:17:48] >>> ENTRY EMCURE <<< | Broke 1984.90. LTP 1984.60
+STOP LOSS 1926.00  (risk 2.97%)
+Exit when the 125-min Supertrend turns red. 1R = 2043.80, 2R = 2102.70
+NOTE: price has pulled back to 1984.60 - the trigger was hit earlier, between scans.
+[2026-09-18 13:17:48] EXIT   FIVESTAR (TARGET) | 125m Supertrend turned RED - book out near 534.20
+Entry 556.85 -> 534.20 = -4.07% (-0.65 R)
+[2026-09-18 13:17:49] SETUP  GLAND | 125m Supertrend turned GREEN (daily green too).
+Buy above 2976.70 | SL 2914.30 (risk 2.10%) | LTP 2945.60
+Valid for the next 3 x 125-min candles.
+[2026-09-18 13:17:49] >>> ENTRY GLENMARK <<< | Broke 2425.80. LTP 2409.40
+STOP LOSS 2374.00  (risk 2.14%)
+Exit when the 125-min Supertrend turns red. 1R = 2477.60, 2R = 2529.40
+NOTE: price has pulled back to 2409.40 - the trigger was hit earlier, between scans.
+[2026-09-18 13:17:50] SETUP  HOMEFIRST | 125m Supertrend turned GREEN (daily green too).
+Buy above 1204.90 | SL 1158.20 (risk 3.88%) | LTP 1204.90
+Valid for the next 3 x 125-min candles.
+[2026-09-18 13:17:51] >>> ENTRY HOMEFIRST <<< | Broke 1204.90. LTP 1204.90
+STOP LOSS 1158.20  (risk 3.88%)
+Exit when the 125-min Supertrend turns red. 1R = 1251.60, 2R = 1298.30
+[2026-09-18 13:17:52] SETUP  IDFCFIRSTB | 125m Supertrend turned GREEN (daily green too).
+Buy above 87.12 | SL 86.18 (risk 1.08%) | LTP 86.84
+Valid for the next 3 x 125-min candles.
+[2026-09-18 13:17:52] SETUP  INDHOTEL | 125m Supertrend turned GREEN (daily green too).
+Buy above 743.00 | SL 722.70 (risk 2.73%) | LTP 736.25
+Valid for the next 3 x 125-min candles.
+[2026-09-18 13:17:53] SETUP  KPIL | 125m Supertrend turned GREEN (daily green too).
+Buy above 1434.70 | SL 1402.00 (risk 2.28%) | LTP 1441.30
+Valid for the next 3 x 125-min candles.
+[2026-09-18 13:17:54] >>> ENTRY KPIL <<< | Broke 1434.70. LTP 1441.30
+STOP LOSS 1402.00  (risk 2.28%)
+Exit when the 125-min Supertrend turns red. 1R = 1467.40, 2R = 1500.10
+[2026-09-18 13:17:54] >>> ENTRY LGEINDIA <<< | Broke 1676.90. LTP 1669.90
+STOP LOSS 1659.00  (risk 1.07%)
+Exit when the 125-min Supertrend turns red. 1R = 1694.80, 2R = 1712.70
+NOTE: price has pulled back to 1669.90 - the trigger was hit earlier, between scans.
+[2026-09-18 13:17:55] SETUP  LENSKART | 125m Supertrend turned GREEN (daily green too).
+Buy above 703.80 | SL 678.10 (risk 3.65%) | LTP 698.85
+Valid for the next 3 x 125-min candles.
+[2026-09-18 13:17:56] >>> ENTRY LENSKART <<< | Broke 703.80. LTP 698.85
+STOP LOSS 678.10  (risk 3.65%)
+Exit when the 125-min Supertrend turns red. 1R = 729.50, 2R = 755.20
+NOTE: price has pulled back to 698.85 - the trigger was hit earlier, between scans.
+[2026-09-18 13:17:56] SETUP  NH | 125m Supertrend turned GREEN (daily green too).
+Buy above 1906.80 | SL 1859.10 (risk 2.50%) | LTP 1920.40
+Valid for the next 3 x 125-min candles.
+[2026-09-18 13:17:57] >>> ENTRY NH <<< | Broke 1906.80. LTP 1920.40
+STOP LOSS 1859.10  (risk 2.50%)
+Exit when the 125-min Supertrend turns red. 1R = 1954.50, 2R = 2002.20
+[2026-09-18 13:17:58] SETUP  RBLBANK | 125m Supertrend turned GREEN (daily green too).
+Buy above 409.70 | SL 405.20 (risk 1.10%) | LTP 408.35
+Valid for the next 3 x 125-min candles.
+[2026-09-18 13:17:59] >>> ENTRY RBLBANK <<< | Broke 409.70. LTP 408.35
+STOP LOSS 405.20  (risk 1.10%)
+Exit when the 125-min Supertrend turns red. 1R = 414.20, 2R = 418.70
+NOTE: price has pulled back to 408.35 - the trigger was hit earlier, between scans.
+[2026-09-18 13:17:59] SETUP  SAGILITY | 125m Supertrend turned GREEN (daily green too).
+Buy above 46.15 | SL 44.59 (risk 3.38%) | LTP 45.94
+Valid for the next 3 x 125-min candles.
+[2026-09-18 13:18:00] >>> ENTRY SAGILITY <<< | Broke 46.15. LTP 45.94
+STOP LOSS 44.59  (risk 3.38%)
+Exit when the 125-min Supertrend turns red. 1R = 47.71, 2R = 49.27
+NOTE: price has pulled back to 45.94 - the trigger was hit earlier, between scans.
+[2026-09-18 13:18:01] SETUP  SPLPETRO | 125m Supertrend turned GREEN (daily green too).
+Buy above 862.25 | SL 805.00 (risk 6.64%) | LTP 853.00
+Valid for the next 3 x 125-min candles.
+[2026-09-18 13:18:01] SETUP  TBOTEK | 125m Supertrend turned GREEN (daily green too).
+Buy above 1713.00 | SL 1643.70 (risk 4.05%) | LTP 1726.00
+Valid for the next 3 x 125-min candles.
+[2026-09-18 13:18:02] >>> ENTRY TBOTEK <<< | Broke 1713.00. LTP 1726.00
+STOP LOSS 1643.70  (risk 4.05%)
+Exit when the 125-min Supertrend turns red. 1R = 1782.30, 2R = 1851.60
+[2026-09-18 13:18:03] CANCEL TORNTPOWER | 125m Supertrend flipped red before entry.
+[2026-09-18 13:18:03] >>> ENTRY VIJAYA <<< | Broke 1487.40. LTP 1549.50
+STOP LOSS 1452.00  (risk 2.38%)
+Exit when the 125-min Supertrend turns red. 1R = 1522.80, 2R = 1558.20
