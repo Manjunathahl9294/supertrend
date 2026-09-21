@@ -824,3 +824,25 @@ Exit when the 125-min Supertrend turns red. 1R = 1782.30, 2R = 1851.60
 [2026-09-18 13:18:03] >>> ENTRY VIJAYA <<< | Broke 1487.40. LTP 1549.50
 STOP LOSS 1452.00  (risk 2.38%)
 Exit when the 125-min Supertrend turns red. 1R = 1522.80, 2R = 1558.20
+[2026-09-21 13:53:54] >>> ENTRY GLAND <<< | Broke 2976.70. LTP 2946.40
+STOP LOSS 2914.30  (risk 2.10%)
+Exit when the 125-min Supertrend turns red. 1R = 3039.10, 2R = 3101.50
+NOTE: price has pulled back to 2946.40 - the trigger was hit earlier, between scans.
+[2026-09-21 13:53:56] >>> ENTRY INDHOTEL <<< | Broke 743.00. LTP 748.25
+STOP LOSS 722.70  (risk 2.73%)
+Exit when the 125-min Supertrend turns red. 1R = 763.30, 2R = 783.60
+[2026-09-21 13:53:58] EXIT   LGEINDIA (STOPPED OUT) | Stop-loss hit - book out near 1659.00
+Entry 1676.90 -> 1659.00 = -1.07% (-1.00 R)
+[2026-09-21 13:53:59] EXIT   POLICYBZR (TARGET) | 125m Supertrend turned RED - book out near 1783.90
+Entry 1815.50 -> 1783.90 = -1.74% (-0.40 R)
+[2026-09-21 13:54:00] SETUP  PNB | 125m Supertrend turned GREEN (daily green too).
+Buy above 117.95 | SL 117.20 (risk 0.64%) | LTP 118.10
+Valid for the next 3 x 125-min candles.
+[2026-09-21 13:54:01] >>> ENTRY PNB <<< | Broke 117.95. LTP 118.10
+STOP LOSS 117.20  (risk 0.64%)
+Exit when the 125-min Supertrend turns red. 1R = 118.70, 2R = 119.45
+[2026-09-21 13:54:02] EXIT   RBLBANK (STOPPED OUT) | Stop-loss hit - book out near 405.20
+Entry 409.70 -> 405.20 = -1.10% (-1.00 R)
+[2026-09-21 13:54:03] >>> ENTRY SPLPETRO <<< | Broke 862.25. LTP 868.00
+STOP LOSS 805.00  (risk 6.64%)
+Exit when the 125-min Supertrend turns red. 1R = 919.50, 2R = 976.75
