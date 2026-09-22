@@ -846,3 +846,17 @@ Entry 409.70 -> 405.20 = -1.10% (-1.00 R)
 [2026-09-21 13:54:03] >>> ENTRY SPLPETRO <<< | Broke 862.25. LTP 868.00
 STOP LOSS 805.00  (risk 6.64%)
 Exit when the 125-min Supertrend turns red. 1R = 919.50, 2R = 976.75
+[2026-09-22 13:35:57] CANCEL ANANDRATHI | 125m Supertrend flipped red before entry.
+[2026-09-22 13:35:58] EXIT   BLUESTARCO (STOPPED OUT) | Stop-loss hit - book out near 1531.60
+Entry 1552.70 -> 1531.60 = -1.36% (-1.00 R)
+[2026-09-22 13:35:59] EXIT   GLAND (STOPPED OUT) | Stop-loss hit - book out near 2914.30
+Entry 2976.70 -> 2914.30 = -2.10% (-1.00 R)
+[2026-09-22 13:36:00] EXIT   HOMEFIRST (TARGET) | 125m Supertrend turned RED - book out near 1199.50
+Entry 1204.90 -> 1199.50 = -0.45% (-0.12 R)
+[2026-09-22 13:36:01] CANCEL IDFCFIRSTB | 125m Supertrend flipped red before entry.
+[2026-09-22 13:36:02] EXIT   KPIL (STOPPED OUT) | Stop-loss hit - book out near 1402.00
+Entry 1434.70 -> 1402.00 = -2.28% (-1.00 R)
+[2026-09-22 13:36:02] EXIT   LENSKART (STOPPED OUT) | Stop-loss hit - book out near 678.10
+Entry 703.80 -> 678.10 = -3.65% (-1.00 R)
+[2026-09-22 13:36:04] EXIT   PNB (STOPPED OUT) | Stop-loss hit - book out near 117.20
+Entry 117.95 -> 117.20 = -0.64% (-1.00 R)
