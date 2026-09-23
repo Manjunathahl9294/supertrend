@@ -860,3 +860,5 @@ Entry 1434.70 -> 1402.00 = -2.28% (-1.00 R)
 Entry 703.80 -> 678.10 = -3.65% (-1.00 R)
 [2026-09-22 13:36:04] EXIT   PNB (STOPPED OUT) | Stop-loss hit - book out near 117.20
 Entry 117.95 -> 117.20 = -0.64% (-1.00 R)
+[2026-09-23 13:38:21] EXIT   BHEL (TARGET) | 125m Supertrend turned RED - book out near 420.90
+Entry 429.35 -> 420.90 = -1.97% (-0.76 R)
