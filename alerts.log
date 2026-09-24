@@ -862,3 +862,8 @@ Entry 703.80 -> 678.10 = -3.65% (-1.00 R)
 Entry 117.95 -> 117.20 = -0.64% (-1.00 R)
 [2026-09-23 13:38:21] EXIT   BHEL (TARGET) | 125m Supertrend turned RED - book out near 420.90
 Entry 429.35 -> 420.90 = -1.97% (-0.76 R)
+[2026-09-24 13:30:06] EXIT   CGCL (TARGET) | 125m Supertrend turned RED - book out near 259.30
+Entry 267.20 -> 259.30 = -2.96% (-0.52 R)
+[2026-09-24 13:30:07] CANCEL CLEAN | 125m Supertrend flipped red before entry.
+[2026-09-24 13:30:10] EXIT   PFOCUS (TARGET) | 125m Supertrend turned RED - book out near 332.25
+Entry 304.45 -> 332.25 = +9.13% (+1.93 R)
