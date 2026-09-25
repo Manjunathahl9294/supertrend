@@ -867,3 +867,13 @@ Entry 267.20 -> 259.30 = -2.96% (-0.52 R)
 [2026-09-24 13:30:07] CANCEL CLEAN | 125m Supertrend flipped red before entry.
 [2026-09-24 13:30:10] EXIT   PFOCUS (TARGET) | 125m Supertrend turned RED - book out near 332.25
 Entry 304.45 -> 332.25 = +9.13% (+1.93 R)
+[2026-09-25 13:52:39] EXIT   EMCURE (TARGET) | 125m Supertrend turned RED - book out near 1937.30
+Entry 1984.90 -> 1937.30 = -2.40% (-0.81 R)
+[2026-09-25 13:52:40] EXIT   GLENMARK (STOPPED OUT) | Stop-loss hit - book out near 2374.00
+Entry 2425.80 -> 2374.00 = -2.14% (-1.00 R)
+[2026-09-25 13:52:41] EXIT   INDHOTEL (STOPPED OUT) | Stop-loss hit - book out near 722.70
+Entry 743.00 -> 722.70 = -2.73% (-1.00 R)
+[2026-09-25 13:52:42] EXIT   NH (STOPPED OUT) | Stop-loss hit - book out near 1859.10
+Entry 1906.80 -> 1859.10 = -2.50% (-1.00 R)
+[2026-09-25 13:52:44] EXIT   SAGILITY (STOPPED OUT) | Stop-loss hit - book out near 44.59
+Entry 46.15 -> 44.59 = -3.38% (-1.00 R)
