@@ -877,3 +877,7 @@ Entry 743.00 -> 722.70 = -2.73% (-1.00 R)
 Entry 1906.80 -> 1859.10 = -2.50% (-1.00 R)
 [2026-09-25 13:52:44] EXIT   SAGILITY (STOPPED OUT) | Stop-loss hit - book out near 44.59
 Entry 46.15 -> 44.59 = -3.38% (-1.00 R)
+[2026-09-28 14:39:52] EXIT   TBOTEK (TARGET) | 125m Supertrend turned RED - book out near 1661.70
+Entry 1713.00 -> 1661.70 = -2.99% (-0.74 R)
+[2026-09-28 14:39:54] EXIT   VIJAYA (TARGET) | 125m Supertrend turned RED - book out near 1495.20
+Entry 1487.40 -> 1495.20 = +0.52% (+0.22 R)
