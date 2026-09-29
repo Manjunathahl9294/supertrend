@@ -881,3 +881,16 @@ Entry 46.15 -> 44.59 = -3.38% (-1.00 R)
 Entry 1713.00 -> 1661.70 = -2.99% (-0.74 R)
 [2026-09-28 14:39:54] EXIT   VIJAYA (TARGET) | 125m Supertrend turned RED - book out near 1495.20
 Entry 1487.40 -> 1495.20 = +0.52% (+0.22 R)
+[2026-09-29 14:49:34] SETUP  CHALET | 125m Supertrend turned GREEN (daily green too).
+Buy above 889.25 | SL 846.30 (risk 4.83%) | LTP 879.10
+Valid for the next 3 x 125-min candles.
+[2026-09-29 14:49:35] >>> ENTRY CHALET <<< | Broke 889.25. LTP 879.10
+STOP LOSS 846.30  (risk 4.83%)
+Exit when the 125-min Supertrend turns red. 1R = 932.20, 2R = 975.15
+NOTE: price has pulled back to 879.10 - the trigger was hit earlier, between scans.
+[2026-09-29 14:49:38] SETUP  LLOYDSME | 125m Supertrend turned GREEN (daily green too).
+Buy above 1894.60 | SL 1855.00 (risk 2.09%) | LTP 1901.80
+Valid for the next 3 x 125-min candles.
+[2026-09-29 14:49:38] >>> ENTRY LLOYDSME <<< | Broke 1894.60. LTP 1901.80
+STOP LOSS 1855.00  (risk 2.09%)
+Exit when the 125-min Supertrend turns red. 1R = 1934.20, 2R = 1973.80
