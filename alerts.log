@@ -894,3 +894,47 @@ Valid for the next 3 x 125-min candles.
 [2026-09-29 14:49:38] >>> ENTRY LLOYDSME <<< | Broke 1894.60. LTP 1901.80
 STOP LOSS 1855.00  (risk 2.09%)
 Exit when the 125-min Supertrend turns red. 1R = 1934.20, 2R = 1973.80
+[2026-09-30 14:40:55] EXIT   AUROPHARMA (STOPPED OUT) | Stop-loss hit - book out near 1666.50
+Entry 1686.00 -> 1666.50 = -1.16% (-1.00 R)
+[2026-09-30 14:40:56] SETUP  DMART | 125m Supertrend turned GREEN (daily green too).
+Buy above 3857.40 | SL 3831.60 (risk 0.67%) | LTP 3807.20
+Valid for the next 3 x 125-min candles.
+[2026-09-30 14:40:57] SETUP  CIEINDIA | 125m Supertrend turned GREEN (daily green too).
+Buy above 389.90 | SL 385.85 (risk 1.04%) | LTP 387.00
+Valid for the next 3 x 125-min candles.
+[2026-09-30 14:40:57] >>> ENTRY CIEINDIA <<< | Broke 389.90. LTP 387.00
+STOP LOSS 385.85  (risk 1.04%)
+Exit when the 125-min Supertrend turns red. 1R = 393.95, 2R = 398.00
+NOTE: price has pulled back to 387.00 - the trigger was hit earlier, between scans.
+[2026-09-30 14:40:59] EXIT   DIVISLAB (TARGET) | 125m Supertrend turned RED - book out near 9383.00
+Entry 9354.50 -> 9383.00 = +0.30% (+0.28 R)
+[2026-09-30 14:41:00] SETUP  ICICIGI | 125m Supertrend turned GREEN (daily green too).
+Buy above 1574.60 | SL 1548.90 (risk 1.63%) | LTP 1570.10
+Valid for the next 3 x 125-min candles.
+[2026-09-30 14:41:01] >>> ENTRY ICICIGI <<< | Broke 1574.60. LTP 1570.10
+STOP LOSS 1548.90  (risk 1.63%)
+Exit when the 125-min Supertrend turns red. 1R = 1600.30, 2R = 1626.00
+NOTE: price has pulled back to 1570.10 - the trigger was hit earlier, between scans.
+[2026-09-30 14:41:02] SETUP  ITCHOTELS | 125m Supertrend turned GREEN (daily green too).
+Buy above 163.19 | SL 160.35 (risk 1.74%) | LTP 162.33
+Valid for the next 3 x 125-min candles.
+[2026-09-30 14:41:02] >>> ENTRY ITCHOTELS <<< | Broke 163.19. LTP 162.33
+STOP LOSS 160.35  (risk 1.74%)
+Exit when the 125-min Supertrend turns red. 1R = 166.03, 2R = 168.87
+NOTE: price has pulled back to 162.33 - the trigger was hit earlier, between scans.
+[2026-09-30 14:41:03] SETUP  INDIGO | 125m Supertrend turned GREEN (daily green too).
+Buy above 5014.50 | SL 4898.50 (risk 2.31%) | LTP 4992.50
+Valid for the next 3 x 125-min candles.
+[2026-09-30 14:41:04] >>> ENTRY INDIGO <<< | Broke 5014.50. LTP 4992.50
+STOP LOSS 4898.50  (risk 2.31%)
+Exit when the 125-min Supertrend turns red. 1R = 5130.50, 2R = 5246.50
+NOTE: price has pulled back to 4992.50 - the trigger was hit earlier, between scans.
+[2026-09-30 14:41:06] SETUP  NUVOCO | 125m Supertrend turned GREEN (daily green too).
+Buy above 344.00 | SL 335.45 (risk 2.49%) | LTP 337.55
+Valid for the next 3 x 125-min candles.
+[2026-09-30 14:41:07] SETUP  RAILTEL | 125m Supertrend turned GREEN (daily green too).
+Buy above 280.90 | SL 260.20 (risk 7.37%) | LTP 267.70
+Valid for the next 3 x 125-min candles.
+[2026-09-30 14:41:09] SETUP  TECHNOE | 125m Supertrend turned GREEN (daily green too).
+Buy above 1021.45 | SL 1007.00 (risk 1.41%) | LTP 1010.10
+Valid for the next 3 x 125-min candles.
