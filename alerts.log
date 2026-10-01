@@ -938,3 +938,19 @@ Valid for the next 3 x 125-min candles.
 [2026-09-30 14:41:09] SETUP  TECHNOE | 125m Supertrend turned GREEN (daily green too).
 Buy above 1021.45 | SL 1007.00 (risk 1.41%) | LTP 1010.10
 Valid for the next 3 x 125-min candles.
+[2026-10-01 15:07:39] >>> ENTRY DMART <<< | Broke 3857.40. LTP 3813.00
+STOP LOSS 3831.60  (risk 0.67%)
+Exit when the 125-min Supertrend turns red. 1R = 3883.20, 2R = 3909.00
+NOTE: price has pulled back to 3813.00 - the trigger was hit earlier, between scans.
+[2026-10-01 15:07:39] EXIT   DMART (STOPPED OUT) | Stop-loss hit - book out near 3831.60
+Entry 3857.40 -> 3831.60 = -0.67% (-1.00 R)
+[2026-10-01 15:07:40] EXIT   CIEINDIA (STOPPED OUT) | Stop-loss hit - book out near 385.85
+Entry 389.90 -> 385.85 = -1.04% (-1.00 R)
+[2026-10-01 15:07:43] EXIT   ITCHOTELS (STOPPED OUT) | Stop-loss hit - book out near 160.35
+Entry 163.19 -> 160.35 = -1.74% (-1.00 R)
+[2026-10-01 15:07:43] EXIT   INDIGO (STOPPED OUT) | Stop-loss hit - book out near 4898.50
+Entry 5014.50 -> 4898.50 = -2.31% (-1.00 R)
+[2026-10-01 15:07:44] EXIT   LLOYDSME (STOPPED OUT) | Stop-loss hit - book out near 1855.00
+Entry 1894.60 -> 1855.00 = -2.09% (-1.00 R)
+[2026-10-01 15:07:45] CANCEL NUVOCO | 125m Supertrend flipped red before entry.
+[2026-10-01 15:07:47] CANCEL RAILTEL | 125m Supertrend flipped red before entry.
