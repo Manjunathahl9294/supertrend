@@ -955,3 +955,31 @@ Entry 1894.60 -> 1855.00 = -2.09% (-1.00 R)
 [2026-10-01 15:07:45] CANCEL NUVOCO | 125m Supertrend flipped red before entry.
 [2026-10-01 15:07:47] CANCEL RAILTEL | 125m Supertrend flipped red before entry.
 [2026-10-05 15:20:53] CANCEL TECHNOE | 125m Supertrend flipped red before entry.
+[2026-10-06 15:08:49] SETUP  APLAPOLLO | 125m Supertrend turned GREEN (daily green too).
+Buy above 2151.40 | SL 2137.00 (risk 0.67%) | LTP 2140.00
+Valid for the next 3 x 125-min candles.
+[2026-10-06 15:08:50] SETUP  ADANIPORTS | 125m Supertrend turned GREEN (daily green too).
+Buy above 1787.00 | SL 1773.00 (risk 0.78%) | LTP 1780.30
+Valid for the next 3 x 125-min candles.
+[2026-10-06 15:08:51] >>> ENTRY ADANIPORTS <<< | Broke 1787.00. LTP 1780.30
+STOP LOSS 1773.00  (risk 0.78%)
+Exit when the 125-min Supertrend turns red. 1R = 1801.00, 2R = 1815.00
+NOTE: price has pulled back to 1780.30 - the trigger was hit earlier, between scans.
+[2026-10-06 15:08:52] SETUP  AETHER | 125m Supertrend turned GREEN (daily green too).
+Buy above 1785.00 | SL 1727.00 (risk 3.25%) | LTP 1799.60
+Valid for the next 3 x 125-min candles.
+[2026-10-06 15:08:52] >>> ENTRY AETHER <<< | Broke 1785.00. LTP 1799.60
+STOP LOSS 1727.00  (risk 3.25%)
+Exit when the 125-min Supertrend turns red. 1R = 1843.00, 2R = 1901.00
+[2026-10-06 15:08:55] SETUP  DEEPAKFERT | 125m Supertrend turned GREEN (daily green too).
+Buy above 1373.50 | SL 1310.00 (risk 4.62%) | LTP 1388.70
+Valid for the next 3 x 125-min candles.
+[2026-10-06 15:08:55] >>> ENTRY DEEPAKFERT <<< | Broke 1373.50. LTP 1388.70
+STOP LOSS 1310.00  (risk 4.62%)
+Exit when the 125-min Supertrend turns red. 1R = 1437.00, 2R = 1500.50
+[2026-10-06 15:08:56] SETUP  GLAND | 125m Supertrend turned GREEN (daily green too).
+Buy above 2977.70 | SL 2944.80 (risk 1.10%) | LTP 3003.00
+Valid for the next 3 x 125-min candles.
+[2026-10-06 15:08:57] >>> ENTRY GLAND <<< | Broke 2977.70. LTP 3003.00
+STOP LOSS 2944.80  (risk 1.10%)
+Exit when the 125-min Supertrend turns red. 1R = 3010.60, 2R = 3043.50
