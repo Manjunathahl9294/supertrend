@@ -983,3 +983,11 @@ Valid for the next 3 x 125-min candles.
 [2026-10-06 15:08:57] >>> ENTRY GLAND <<< | Broke 2977.70. LTP 3003.00
 STOP LOSS 2944.80  (risk 1.10%)
 Exit when the 125-min Supertrend turns red. 1R = 3010.60, 2R = 3043.50
+[2026-10-07 15:04:17] >>> ENTRY APLAPOLLO <<< | Broke 2151.40. LTP 2119.80
+STOP LOSS 2137.00  (risk 0.67%)
+Exit when the 125-min Supertrend turns red. 1R = 2165.80, 2R = 2180.20
+NOTE: price has pulled back to 2119.80 - the trigger was hit earlier, between scans.
+[2026-10-07 15:04:18] EXIT   APLAPOLLO (STOPPED OUT) | Stop-loss hit - book out near 2137.00
+Entry 2151.40 -> 2137.00 = -0.67% (-1.00 R)
+[2026-10-07 15:04:18] EXIT   ADANIPORTS (STOPPED OUT) | Stop-loss hit - book out near 1773.00
+Entry 1787.00 -> 1773.00 = -0.78% (-1.00 R)
