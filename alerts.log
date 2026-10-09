@@ -991,3 +991,5 @@ NOTE: price has pulled back to 2119.80 - the trigger was hit earlier, between sc
 Entry 2151.40 -> 2137.00 = -0.67% (-1.00 R)
 [2026-10-07 15:04:18] EXIT   ADANIPORTS (STOPPED OUT) | Stop-loss hit - book out near 1773.00
 Entry 1787.00 -> 1773.00 = -0.78% (-1.00 R)
+[2026-10-09 15:20:36] EXIT   AETHER (STOPPED OUT) | Stop-loss hit - book out near 1727.00
+Entry 1785.00 -> 1727.00 = -3.25% (-1.00 R)
