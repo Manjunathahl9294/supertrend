@@ -993,3 +993,6 @@ Entry 2151.40 -> 2137.00 = -0.67% (-1.00 R)
 Entry 1787.00 -> 1773.00 = -0.78% (-1.00 R)
 [2026-10-09 15:20:36] EXIT   AETHER (STOPPED OUT) | Stop-loss hit - book out near 1727.00
 Entry 1785.00 -> 1727.00 = -3.25% (-1.00 R)
+[2026-10-12 15:31:48] SETUP  HFCL | 125m Supertrend turned GREEN (daily green too).
+Buy above 267.65 | SL 258.18 (risk 3.54%) | LTP 265.00
+Valid for the next 3 x 125-min candles.
