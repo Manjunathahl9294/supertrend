@@ -996,3 +996,15 @@ Entry 1785.00 -> 1727.00 = -3.25% (-1.00 R)
 [2026-10-12 15:31:48] SETUP  HFCL | 125m Supertrend turned GREEN (daily green too).
 Buy above 267.65 | SL 258.18 (risk 3.54%) | LTP 265.00
 Valid for the next 3 x 125-min candles.
+[2026-10-15 13:22:13] SETUP  COHANCE | 125m Supertrend turned GREEN (daily green too).
+Buy above 468.90 | SL 445.05 (risk 5.09%) | LTP 464.85
+Valid for the next 3 x 125-min candles.
+[2026-10-15 13:22:14] >>> ENTRY COHANCE <<< | Broke 468.90. LTP 464.85
+STOP LOSS 445.05  (risk 5.09%)
+Exit when the 125-min Supertrend turns red. 1R = 492.75, 2R = 516.60
+NOTE: price has pulled back to 464.85 - the trigger was hit earlier, between scans.
+[2026-10-15 13:22:15] EXIT   DEEPAKFERT (STOPPED OUT) | Stop-loss hit - book out near 1310.00
+Entry 1373.50 -> 1310.00 = -4.62% (-1.00 R)
+[2026-10-15 13:22:16] EXIT   GLAND (TARGET) | 125m Supertrend turned RED - book out near 3028.70
+Entry 2977.70 -> 3028.70 = +1.71% (+1.55 R)
+[2026-10-15 13:22:17] CANCEL HFCL | 125m Supertrend flipped red before entry.
