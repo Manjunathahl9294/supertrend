@@ -1013,3 +1013,6 @@ Buy above 7211.50 | SL 7010.00 (risk 2.79%) | LTP 7200.00
 Valid for the next 3 x 125-min candles.
 [2026-10-16 13:12:57] EXIT   ICICIGI (TARGET) | 125m Supertrend turned RED - book out near 1676.50
 Entry 1574.60 -> 1676.50 = +6.47% (+3.96 R)
+[2026-10-19 13:48:50] >>> ENTRY GILLETTE <<< | Broke 7211.50. LTP 7229.00
+STOP LOSS 7010.00  (risk 2.79%)
+Exit when the 125-min Supertrend turns red. 1R = 7413.00, 2R = 7614.50
