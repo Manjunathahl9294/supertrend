@@ -1016,3 +1016,9 @@ Entry 1574.60 -> 1676.50 = +6.47% (+3.96 R)
 [2026-10-19 13:48:50] >>> ENTRY GILLETTE <<< | Broke 7211.50. LTP 7229.00
 STOP LOSS 7010.00  (risk 2.79%)
 Exit when the 125-min Supertrend turns red. 1R = 7413.00, 2R = 7614.50
+[2026-10-22 13:39:06] SETUP  ACC | 125m Supertrend turned GREEN (daily green too).
+Buy above 1194.90 | SL 1172.00 (risk 1.92%) | LTP 1188.80
+Valid for the next 3 x 125-min candles.
+[2026-10-22 13:39:11] SETUP  ITCHOTELS | 125m Supertrend turned GREEN (daily green too).
+Buy above 161.65 | SL 158.41 (risk 2.00%) | LTP 161.00
+Valid for the next 3 x 125-min candles.
