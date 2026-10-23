@@ -1022,3 +1022,7 @@ Valid for the next 3 x 125-min candles.
 [2026-10-22 13:39:11] SETUP  ITCHOTELS | 125m Supertrend turned GREEN (daily green too).
 Buy above 161.65 | SL 158.41 (risk 2.00%) | LTP 161.00
 Valid for the next 3 x 125-min candles.
+[2026-10-23 13:38:00] CANCEL ACC | 125m Supertrend flipped red before entry.
+[2026-10-23 13:38:02] EXIT   COHANCE (STOPPED OUT) | Stop-loss hit - book out near 445.05
+Entry 468.90 -> 445.05 = -5.09% (-1.00 R)
+[2026-10-23 13:38:04] CANCEL ITCHOTELS | 125m Supertrend flipped red before entry.
