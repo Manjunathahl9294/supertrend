@@ -1026,3 +1026,28 @@ Valid for the next 3 x 125-min candles.
 [2026-10-23 13:38:02] EXIT   COHANCE (STOPPED OUT) | Stop-loss hit - book out near 445.05
 Entry 468.90 -> 445.05 = -5.09% (-1.00 R)
 [2026-10-23 13:38:04] CANCEL ITCHOTELS | 125m Supertrend flipped red before entry.
+[2026-10-26 13:49:28] SETUP  ABREL | 125m Supertrend turned GREEN (daily green too).
+Buy above 1110.20 | SL 1051.00 (risk 5.33%) | LTP 1066.30
+Valid for the next 3 x 125-min candles.
+[2026-10-26 13:49:29] SETUP  COFORGE | 125m Supertrend turned GREEN (daily green too).
+Buy above 1974.60 | SL 1929.40 (risk 2.29%) | LTP 1974.00
+Valid for the next 3 x 125-min candles.
+[2026-10-26 13:49:29] >>> ENTRY COFORGE <<< | Broke 1974.60. LTP 1974.00
+STOP LOSS 1929.40  (risk 2.29%)
+Exit when the 125-min Supertrend turns red. 1R = 2019.80, 2R = 2065.00
+NOTE: price has pulled back to 1974.00 - the trigger was hit earlier, between scans.
+[2026-10-26 13:49:30] SETUP  GICRE | 125m Supertrend turned GREEN (daily green too).
+Buy above 325.95 | SL 316.55 (risk 2.88%) | LTP 326.80
+Valid for the next 3 x 125-min candles.
+[2026-10-26 13:49:31] >>> ENTRY GICRE <<< | Broke 325.95. LTP 326.80
+STOP LOSS 316.55  (risk 2.88%)
+Exit when the 125-min Supertrend turns red. 1R = 335.35, 2R = 344.75
+[2026-10-26 13:49:32] SETUP  GESHIP | 125m Supertrend turned GREEN (daily green too).
+Buy above 1537.70 | SL 1517.70 (risk 1.30%) | LTP 1530.60
+Valid for the next 3 x 125-min candles.
+[2026-10-26 13:49:33] SETUP  RELIANCE | 125m Supertrend turned GREEN (daily green too).
+Buy above 1202.80 | SL 1190.10 (risk 1.06%) | LTP 1202.80
+Valid for the next 3 x 125-min candles.
+[2026-10-26 13:49:34] >>> ENTRY RELIANCE <<< | Broke 1202.80. LTP 1202.80
+STOP LOSS 1190.10  (risk 1.06%)
+Exit when the 125-min Supertrend turns red. 1R = 1215.50, 2R = 1228.20
