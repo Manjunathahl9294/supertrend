@@ -1051,3 +1051,12 @@ Valid for the next 3 x 125-min candles.
 [2026-10-26 13:49:34] >>> ENTRY RELIANCE <<< | Broke 1202.80. LTP 1202.80
 STOP LOSS 1190.10  (risk 1.06%)
 Exit when the 125-min Supertrend turns red. 1R = 1215.50, 2R = 1228.20
+[2026-10-27 14:01:27] >>> ENTRY ABREL <<< | Broke 1110.20. LTP 1109.70
+STOP LOSS 1051.00  (risk 5.33%)
+Exit when the 125-min Supertrend turns red. 1R = 1169.40, 2R = 1228.60
+NOTE: price has pulled back to 1109.70 - the trigger was hit earlier, between scans.
+[2026-10-27 14:01:29] >>> ENTRY GESHIP <<< | Broke 1537.70. LTP 1545.20
+STOP LOSS 1517.70  (risk 1.30%)
+Exit when the 125-min Supertrend turns red. 1R = 1557.70, 2R = 1577.70
+[2026-10-27 14:01:32] EXIT   RELIANCE (STOPPED OUT) | Stop-loss hit - book out near 1190.10
+Entry 1202.80 -> 1190.10 = -1.06% (-1.00 R)
