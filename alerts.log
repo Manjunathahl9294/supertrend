@@ -1060,3 +1060,12 @@ STOP LOSS 1517.70  (risk 1.30%)
 Exit when the 125-min Supertrend turns red. 1R = 1557.70, 2R = 1577.70
 [2026-10-27 14:01:32] EXIT   RELIANCE (STOPPED OUT) | Stop-loss hit - book out near 1190.10
 Entry 1202.80 -> 1190.10 = -1.06% (-1.00 R)
+[2026-10-28 14:40:02] EXIT   ABREL (STOPPED OUT) | Stop-loss hit - book out near 1051.00
+Entry 1110.20 -> 1051.00 = -5.33% (-1.00 R)
+[2026-10-28 14:40:03] EXIT   COFORGE (STOPPED OUT) | Stop-loss hit - book out near 1929.40
+Entry 1974.60 -> 1929.40 = -2.29% (-1.00 R)
+[2026-10-28 14:40:04] EXIT   GICRE (STOPPED OUT) | Stop-loss hit - book out near 316.55
+Entry 325.95 -> 316.55 = -2.88% (-1.00 R)
+[2026-10-28 14:40:05] SETUP  KPITTECH | 125m Supertrend turned GREEN (daily green too).
+Buy above 571.00 | SL 515.50 (risk 9.72%) | LTP 552.30
+Valid for the next 3 x 125-min candles.
