@@ -1,91 +1,11 @@
 {
-  "generated": "2026-10-28T14:50:48+05:30",
-  "last_bar": "2026-10-28 14:45:00+05:30",
-  "spot": 22706.05,
-  "paper_start": "2026-08-04 12:00:00+05:30",
+  "generated": "2026-10-29T14:55:17+05:30",
+  "last_bar": "2026-10-29 14:45:00+05:30",
+  "spot": 22952.45,
+  "paper_start": "2026-08-05 14:15:00+05:30",
   "lot": 75,
   "open_positions": [],
   "closed_trades": [
-    {
-      "side": "SHORT",
-      "structure": "naked_put_buy",
-      "signal_time": "2026-08-04 11:45:00+05:30",
-      "entry_time": "2026-08-04 12:00:00+05:30",
-      "exit_time": "2026-08-04 15:15:00+05:30",
-      "reason": "SL",
-      "spot_entry": 24522.05,
-      "spot_stop": 24557.5,
-      "spot_exit": 24557.5,
-      "points": -35.45,
-      "r": -1.0,
-      "strike": 24500,
-      "expiry": "2026-08-06 15:30:00+05:30",
-      "prem_in": 101.64,
-      "prem_out": 82.95,
-      "pnl_rs": -1540.0,
-      "rolls": 0,
-      "open": false
-    },
-    {
-      "side": "SHORT",
-      "structure": "naked_call_sell",
-      "signal_time": "2026-08-04 11:45:00+05:30",
-      "entry_time": "2026-08-04 12:00:00+05:30",
-      "exit_time": "2026-08-04 15:15:00+05:30",
-      "reason": "SL",
-      "spot_entry": 24522.05,
-      "spot_stop": 24557.5,
-      "spot_exit": 24557.5,
-      "points": -35.45,
-      "r": -1.0,
-      "strike": 24500,
-      "expiry": "2026-08-06 15:30:00+05:30",
-      "prem_in": -133.05,
-      "prem_out": -149.22,
-      "pnl_rs": -1425.0,
-      "rolls": 0,
-      "open": false
-    },
-    {
-      "side": "SHORT",
-      "structure": "bear_call_spread",
-      "signal_time": "2026-08-04 11:45:00+05:30",
-      "entry_time": "2026-08-04 12:00:00+05:30",
-      "exit_time": "2026-08-04 15:15:00+05:30",
-      "reason": "SL",
-      "spot_entry": 24522.05,
-      "spot_stop": 24557.5,
-      "spot_exit": 24557.5,
-      "points": -35.45,
-      "r": -1.0,
-      "strike": 24500,
-      "expiry": "2026-08-06 15:30:00+05:30",
-      "prem_in": -81.38,
-      "prem_out": -90.28,
-      "pnl_rs": -796.0,
-      "rolls": 0,
-      "open": false
-    },
-    {
-      "side": "SHORT",
-      "structure": "bear_put_spread",
-      "signal_time": "2026-08-04 11:45:00+05:30",
-      "entry_time": "2026-08-04 12:00:00+05:30",
-      "exit_time": "2026-08-04 15:15:00+05:30",
-      "reason": "SL",
-      "spot_entry": 24522.05,
-      "spot_stop": 24557.5,
-      "spot_exit": 24557.5,
-      "points": -35.45,
-      "r": -1.0,
-      "strike": 24500,
-      "expiry": "2026-08-06 15:30:00+05:30",
-      "prem_in": 66.27,
-      "prem_out": 56.81,
-      "pnl_rs": -802.0,
-      "rolls": 0,
-      "open": false
-    },
     {
       "side": "SHORT",
       "structure": "naked_put_buy",
@@ -2420,8 +2340,8 @@
       "r": -1.0,
       "strike": 22750,
       "expiry": "2026-10-29 15:30:00+05:30",
-      "prem_in": 92.37,
-      "prem_out": 60.65,
+      "prem_in": 92.4,
+      "prem_out": 60.68,
       "pnl_rs": -2494.0,
       "rolls": 0,
       "open": false
@@ -2440,8 +2360,8 @@
       "r": -1.0,
       "strike": 22750,
       "expiry": "2026-10-29 15:30:00+05:30",
-      "prem_in": -75.19,
-      "prem_out": -109.97,
+      "prem_in": -75.23,
+      "prem_out": -110.0,
       "pnl_rs": -2747.0,
       "rolls": 0,
       "open": false
@@ -2460,9 +2380,9 @@
       "r": -1.0,
       "strike": 22750,
       "expiry": "2026-10-29 15:30:00+05:30",
-      "prem_in": 70.05,
-      "prem_out": 48.76,
-      "pnl_rs": -1686.0,
+      "prem_in": 70.06,
+      "prem_out": 48.77,
+      "pnl_rs": -1685.0,
       "rolls": 0,
       "open": false
     },
@@ -2480,9 +2400,9 @@
       "r": -1.0,
       "strike": 22750,
       "expiry": "2026-10-29 15:30:00+05:30",
-      "prem_in": -59.18,
+      "prem_in": -59.19,
       "prem_out": -81.73,
-      "pnl_rs": -1797.0,
+      "pnl_rs": -1796.0,
       "rolls": 0,
       "open": false
     }
@@ -2490,25 +2410,36 @@
   "summary": [
     {
       "structure": "naked_put_buy",
-      "trades": 20,
-      "win_rate_%": 30.0,
-      "total_pnl_rs": 21243,
-      "avg_pnl_rs": 1062,
+      "trades": 19,
+      "win_rate_%": 31.6,
+      "total_pnl_rs": 22783,
+      "avg_pnl_rs": 1199,
       "best_rs": 25044,
       "worst_rs": -4091,
-      "profit_factor": 1.74,
-      "max_dd_rs": -18042
+      "profit_factor": 1.84,
+      "max_dd_rs": -16674
     },
     {
       "structure": "bear_put_spread",
-      "trades": 20,
-      "win_rate_%": 35.0,
-      "total_pnl_rs": 15767,
-      "avg_pnl_rs": 788,
+      "trades": 19,
+      "win_rate_%": 36.8,
+      "total_pnl_rs": 16569,
+      "avg_pnl_rs": 872,
       "best_rs": 9908,
       "worst_rs": -2630,
-      "profit_factor": 1.85,
-      "max_dd_rs": -10478
+      "profit_factor": 1.93,
+      "max_dd_rs": -9380
+    },
+    {
+      "structure": "naked_call_sell",
+      "trades": 19,
+      "win_rate_%": 36.8,
+      "total_pnl_rs": 2934,
+      "avg_pnl_rs": 154,
+      "best_rs": 6445,
+      "worst_rs": -7373,
+      "profit_factor": 1.12,
+      "max_dd_rs": -10762
     },
     {
       "structure": "naked_put_sell",
@@ -2522,48 +2453,37 @@
       "max_dd_rs": -11308
     },
     {
-      "structure": "naked_call_sell",
-      "trades": 20,
-      "win_rate_%": 35.0,
-      "total_pnl_rs": 1509,
-      "avg_pnl_rs": 75,
-      "best_rs": 6445,
-      "worst_rs": -7373,
-      "profit_factor": 1.06,
-      "max_dd_rs": -10762
-    },
-    {
       "structure": "bear_call_spread",
-      "trades": 20,
-      "win_rate_%": 35.0,
-      "total_pnl_rs": 516,
-      "avg_pnl_rs": 25,
+      "trades": 19,
+      "win_rate_%": 36.8,
+      "total_pnl_rs": 1312,
+      "avg_pnl_rs": 69,
       "best_rs": 4601,
       "worst_rs": -6081,
-      "profit_factor": 1.03,
+      "profit_factor": 1.07,
       "max_dd_rs": -8337
     },
     {
       "structure": "bull_put_spread",
       "trades": 11,
       "win_rate_%": 45.5,
-      "total_pnl_rs": -3386,
+      "total_pnl_rs": -3385,
       "avg_pnl_rs": -307,
       "best_rs": 2997,
       "worst_rs": -2702,
       "profit_factor": 0.73,
-      "max_dd_rs": -6844
+      "max_dd_rs": -6843
     },
     {
       "structure": "bull_call_spread",
       "trades": 11,
       "win_rate_%": 27.3,
-      "total_pnl_rs": -3966,
+      "total_pnl_rs": -3965,
       "avg_pnl_rs": -360,
       "best_rs": 10722,
       "worst_rs": -3616,
       "profit_factor": 0.76,
-      "max_dd_rs": -6844
+      "max_dd_rs": -6843
     },
     {
       "structure": "naked_call_buy",
@@ -2578,9 +2498,9 @@
     }
   ],
   "totals": {
-    "closed": 31,
+    "closed": 30,
     "open": 0,
     "best_structure": "naked_put_buy",
-    "best_rs": 21243
+    "best_rs": 22783
   }
 }
