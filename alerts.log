@@ -1072,3 +1072,16 @@ Valid for the next 3 x 125-min candles.
 [2026-10-29 14:39:10] SETUP  INDIANB | 125m Supertrend turned GREEN (daily green too).
 Buy above 861.95 | SL 851.05 (risk 1.26%) | LTP 860.45
 Valid for the next 3 x 125-min candles.
+[2026-10-30 14:49:39] EXIT   GILLETTE (TARGET) | 125m Supertrend turned RED - book out near 7081.00
+Entry 7211.50 -> 7081.00 = -1.81% (-0.65 R)
+[2026-10-30 14:49:40] >>> ENTRY INDIANB <<< | Broke 861.95. LTP 861.85
+STOP LOSS 851.05  (risk 1.26%)
+Exit when the 125-min Supertrend turns red. 1R = 872.85, 2R = 883.75
+NOTE: price has pulled back to 861.85 - the trigger was hit earlier, between scans.
+[2026-10-30 14:49:43] SETUP  TCS | 125m Supertrend turned GREEN (daily green too).
+Buy above 2523.80 | SL 2508.50 (risk 0.61%) | LTP 2521.00
+Valid for the next 3 x 125-min candles.
+[2026-10-30 14:49:44] >>> ENTRY TCS <<< | Broke 2523.80. LTP 2521.00
+STOP LOSS 2508.50  (risk 0.61%)
+Exit when the 125-min Supertrend turns red. 1R = 2539.10, 2R = 2554.40
+NOTE: price has pulled back to 2521.00 - the trigger was hit earlier, between scans.
