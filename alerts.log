@@ -1091,3 +1091,7 @@ Entry 1537.70 -> 1517.70 = -1.30% (-1.00 R)
 Entry 861.95 -> 851.05 = -1.26% (-1.00 R)
 [2026-11-05 15:35:16] EXIT   TCS (STOPPED OUT) | Stop-loss hit - book out near 2508.50
 Entry 2523.80 -> 2508.50 = -0.61% (-1.00 R)
+[2026-11-11 15:34:18] EXPIRE KPITTECH | No breakout of 571.00 within 3 candles.
+[2026-11-11 15:34:20] SETUP  ZENTEC | 125m Supertrend turned GREEN (daily green too).
+Buy above 1769.90 | SL 1750.50 (risk 1.10%) | LTP 1758.90
+Valid for the next 3 x 125-min candles.
